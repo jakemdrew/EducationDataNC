@@ -14,6 +14,8 @@ Links to the original datasets are listed below.  However, some of these tables 
 * **NC Report 2016 Data Overview - MSDS 7331.pdf** - Read this to gain a better understanding of what this data is all about!  Overview of NC public school data by Dr. Drew including the current state of majority majority public schools in NC.
 * **ReadMe.txt** - Links to all original data.  This information is also included directly below.   
 * **accdrilldwn16_masking_removed.csv** - 84950 records, 32 fields -  Percentages of students within each public school by race passing numerious educaitonal attainment performance metrics. (i.e. Graduation Rates, SAT, ACT, End of Year (EOY), and End of Course (EOC) by grade). The following formula was applied to each cell in Excel to clean up this data for processing = TRIM(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(Sheet1!A2,"*","0"),">95","100"),"<5","0"),"<10","5"),"""",""),",","")) 
+* **1516testresults_masking_removed.csv** - 39857 records, 12 fields - Percentages of students within each public school passing numerious educaitonal attainment performance metrics broken out in levels 1 - 5.  (i.e. Graduation Rates, SAT, ACT, End of Year (EOY), and End of Course (EOC) by grade). The following formula was applied to each cell in Excel to clean up this data for processing = TRIM(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(Sheet1!A2,"*","0"),">95","100"),"<5","0"),"<10","5"),"""",""),",","")) 
+
 
 # Links to Original Data
 
