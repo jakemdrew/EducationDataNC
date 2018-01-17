@@ -15,7 +15,10 @@ Links to the original datasets are listed below.  However, some of these tables 
 * **ReadMe.txt** - Links to all original data.  This information is also included directly below.   
 * **accdrilldwn16_masking_removed.csv** - 84950 records, 32 fields -  Percentages of students within each public school by race passing numerious educaitonal attainment performance metrics. (i.e. Graduation Rates, SAT, ACT, End of Year (EOY), and End of Course (EOC) by grade). The following formula was applied to each cell in Excel to clean up this data for processing = TRIM(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(Sheet1!A2,"*","0"),">95","100"),"<5","0"),"<10","5"),"""",""),",","")) 
 * **1516testresults_masking_removed.csv** - 39857 records, 12 fields - Percentages of students within each public school passing numerious educaitonal attainment performance metrics broken out in levels 1 - 5.  (i.e. Graduation Rates, SAT, ACT, End of Year (EOY), and End of Course (EOC) by grade). The following formula was applied to each cell in Excel to clean up this data for processing = TRIM(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(Sheet1!A2,"*","0"),">95","100"),"<5","0"),"<10","5"),"""",""),",","")) 
-* **1516_Test_Scores.xlsx** - 2669 records, 73 fields - Percentage of entire student body meeting various subject or test End of Grade (EOG), End of Course (EOC), ACT and Graduation Rate benchmarks.  This data was transformed to one record per school from the accdrilldwn16_masking_removed.csv file. The accdrilldwn16_masking_removed.csv file also contains these same percentages by race.         
+* **1516_Test_Scores.xlsx** - 2669 records, 73 fields - Percentage of entire student body meeting various subject or test End of Grade (EOG), End of Course (EOC), ACT and Graduation Rate benchmarks.  This data was transformed to one record per school from the accdrilldwn16_masking_removed.csv file. The accdrilldwn16_masking_removed.csv file also contains these same percentages by race.   The following acronyms also help to decipher field meanings: 
+  * EOC - End of Course
+  * EOG - End of Grade
+  * CACR - College and Career Ready         
 
 # Links to Original Data
 
