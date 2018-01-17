@@ -1,4 +1,4 @@
-# EducationDataNC
+# North Carolina Educational Attainment Data
 
 The North Carolina Public Schools Report Card and Statistical Profiles Databases contain a large volume of information about public, charter, and alternative schools in the State of North Carolina. Information that is made publicly accessible comprises data at the school, district, and state levels. This includes statistics on student and school performance, academic growth, diversity, safety, instructor experience levels, school funding, educational attainment, and much more.
 
