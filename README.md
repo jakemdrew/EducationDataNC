@@ -8,7 +8,7 @@ Links to the original datasets are listed below.  However, some of these tables 
 
 # Dataset and File Descriptions
 
-* **All_Data_By_School_Final.xlsx** - 2575 records, 293 fields - One record for each active public school in the State of North Carolina.  Features reflect school level attributes.  Data is consolidated from various tables within the NC Statistical Profiles and Report Card Databases.  (See download links below)
+* **All_Data_By_School_Final.csv** - 2575 records, 293 fields - One record for each active public school in the State of North Carolina.  Features reflect school level attributes.  Data is consolidated from various tables within the NC Statistical Profiles and Report Card Databases.  (See download links below)  The following formula was applied to each cell in Excel to remove masking and clean up this data for processing = TRIM(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(Sheet1!A2,"*","0"),">95","100"),"<5","0"),"<10","5"),"""",""),",",""))  
 * **data-dictionary.pdf** - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
 * **Ec_Pupils_Expanded (2017 Race Compositions by School).csv** - 2447 records, 30 fields, racial composition data for each active public school in the state of North Carolina (minus charter schools and vocational schools).  See Table 11 - A HISTORY OF PUPIL MEMBERSHIP BY RACE below for original links.   
 * **NC Report 2016 Data Overview - MSDS 7331.pdf** - Read this to gain a better understanding of what this data is all about!  Overview of NC public school data by Dr. Drew including the current state of majority majority public schools in NC.
