@@ -22,7 +22,7 @@ Links to the original datasets are listed below.  However, some of these tables 
 
 # Links to Original Data
 
-These links are for reference only!  Most features have been consolidated into the file All_Data_By_School_Final.xlsx.  However, you may find additional data here if it is missing.  
+**These links are for reference only!  Most features have been consolidated into the file All_Data_By_School_Final.xlsx.  However, you may find additional data here if it is missing.**  
 
 ## Reseracher Download Page:
 
