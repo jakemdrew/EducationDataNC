@@ -8,6 +8,7 @@ Links to the original datasets are listed below.  However, some of these tables 
 
 # Dataset and File Descriptions
 
+* **HighSchoolsML_02_2018.csv** - 440 Public High Schools and features prepared for machine learning.  
 * **Graduation Rates v2.ipynb** - Example iPython Notebook with useful code snippets for merging files, isolating high school campuses, and regressing four-year graduation rate within +-4.22 mean absolute error. This notebook also shows how to create your own custom regressor and create multiple scorer functions using the make_scorer() function.  This allows you to perform cross validation one time with the cross_validate() function and return multiple scoring metrics for evaluation (MAE, MAPE, and RMSE in this case).    
 * **All_Data_By_School_Final.csv** - 2575 records, 293 fields - One record for each active public school in the State of North Carolina.  Features reflect school level attributes.  Data is consolidated from various tables within the NC Statistical Profiles and Report Card Databases.  (See download links below)  The following formula was applied to each cell in Excel to remove masking and clean up this data for processing = TRIM(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(SUBSTITUTE(Sheet1!A2,"*","0"),">95","100"),"<5","0"),"<10","5"),"""",""),",",""))  
 * **data-dictionary.pdf** - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
