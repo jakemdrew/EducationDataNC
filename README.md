@@ -13,12 +13,13 @@ Links to the original datasets are listed below.  However, some of these tables 
 # iPython Notebooks and Code Examples
  # Dataset Creation Notebooks
   * **Public Elementary Schools Dataset Expanded  Feb 2018.ipynb** - Python code to create the ElementarySchoolsML_02_2018_Expanded.csv dataset.  
-    * **The code for this notebook may be viewed here: ** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20Elementary%20Schools%20Dataset%20Expanded%20%20Feb%202018.ipynb
+    * **The code for this notebook may be viewed here:** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20Elementary%20Schools%20Dataset%20Expanded%20%20Feb%202018.ipynb
   * **Public High Schools Dataset  Feb 2018.ipynb** - Python code to create the HighSchoolsML_02_2018.csv dataset.  
-   * **The code for this notebook may be viewed here: ** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20High%20Schools%20Dataset%20%20Feb%202018.ipynb 
+    * **The code for this notebook may be viewed here:** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20High%20Schools%20Dataset%20%20Feb%202018.ipynb 
   * **Public High Schools Dataset Expanded  Feb 2018.ipynb** - Python code to create the HighSchoolsML_02_2018_Expanded.csv dataset.  
-   * **The code for this notebook may be viewed here: ** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20High%20Schools%20Dataset%20Expanded%20%20Feb%202018.ipynb
-  * **Public Middle Schools Dataset Expanded  Feb 2018.ipynb** - Python code to create the MiddleSchoolsML_02_2018_Expanded.csv dataset.    * **The code for this notebook may be viewed here: ** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20Middle%20Schools%20Dataset%20Expanded%20%20Feb%202018.ipynb
+    * **The code for this notebook may be viewed here:** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20High%20Schools%20Dataset%20Expanded%20%20Feb%202018.ipynb
+  * **Public Middle Schools Dataset Expanded  Feb 2018.ipynb** - Python code to create the MiddleSchoolsML_02_2018_Expanded.csv dataset.
+    * **The code for this notebook may be viewed here:** http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/iPython%20Notebooks/Dataset%20Creation/Public%20Middle%20Schools%20Dataset%20Expanded%20%20Feb%202018.ipynb
   
  # Machine Learning Notebooks 
   * **Graduation Rates v2.ipynb** - Example iPython Notebook with useful code snippets for merging files, isolating high school campuses, and regressing four-year graduation rate within +-4.22 mean absolute error. This notebook also shows how to create your own custom regressor and create multiple scorer functions using the make_scorer() function.  This allows you to perform cross validation one time with the cross_validate() function and return multiple scoring metrics for evaluation (MAE, MAPE, and RMSE in this case).    
