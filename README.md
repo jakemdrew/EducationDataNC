@@ -14,6 +14,8 @@ Links to the original datasets are listed below.  However, some of these tables 
 * **Graduation Rates v2.ipynb** - Example iPython Notebook with useful code snippets for merging files, isolating high school campuses, and regressing four-year graduation rate within +-4.22 mean absolute error. This notebook also shows how to create your own custom regressor and create multiple scorer functions using the make_scorer() function.  This allows you to perform cross validation one time with the cross_validate() function and return multiple scoring metrics for evaluation (MAE, MAPE, and RMSE in this case).    
 
 # Machine Learning Dataset and File Descriptions
+* **ElementarySchoolsML_02_2018_Expanded.csv** - 1291 Public Middle Schools and 136 features prepared for machine learning including racial compositions for each campus.
+* **MiddleSchoolsML_02_2018_Expanded.csv** - 535 Public Middle Schools and 128 features prepared for machine learning including racial compositions for each campus.
 * **HighSchoolsML_02_2018_Expanded.csv** - 440 Public High Schools and 140 features prepared for machine learning including racial compositions for each campus.
 * **HighSchoolsML_02_2018.csv** - 440 Public High Schools and 128 features prepared for machine learning.  
 
