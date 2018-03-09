@@ -7,8 +7,8 @@ There were 17 tables of data reviewed within the North Carolina report card data
 Links to the original datasets are listed below.  However, some of these tables have been extensively de-normalized to accommodate visualization and machine learning processes.
 
 # Reports 
-* **data-dictionary.pdf** - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
-* **NC Report 2016 Data Overview - MSDS 7331.pdf** - Read this to gain a better understanding of what this data is all about!  Overview of NC public school data by Dr. Drew including the current state of majority minority public schools in NC. 
+* [**data-dictionary.pdf**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/data-dictionary.pdf) - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
+* [**NC Report 2016 Data Overview - MSDS 7331.pdf**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/NC%20Report%202016%20Data%20Overview%20-%20MSDS%207331.pdf) - Read this to gain a better understanding of what this data is all about!  Overview of NC public school data by Dr. Drew including the current state of majority minority public schools in NC. 
 
 # iPython Notebooks and Code Examples
 You can click on each of the notebook names below to preview the code using the [Nbviewer](nbviewer.jupyter.org).
