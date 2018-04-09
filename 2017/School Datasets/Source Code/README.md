@@ -3,4 +3,4 @@ The file links below will display source code, outputs, and reports for each of 
 
 **Click on each of the notebook names below to preview the code using the [Nbviewer](nbviewer.jupyter.org).**
 
-* [**SchoolDataFiles2017.ipynb**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2017/Machine%20Learning%20Datasets/Source%20Code/SchoolDataFiles2017.ipynb) - Python code to create the Public School datasets. 
+* [**SchoolDataFiles2017.ipynb**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2017/School%20Datasets/Source%20Code/SchoolDataFiles2017.ipynb) - Python code to create the Public School datasets. 
