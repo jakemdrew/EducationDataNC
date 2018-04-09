@@ -8,9 +8,9 @@ The link below will display source code, outputs, and reports for each of the ra
 * [**PublicSchools2017_ML.ipynb**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2017/Raw%20Datasets/Source%20Code/RawDataFiles2017.ipynb) - Python code to create each of the raw dataset files. 
 
 ## Data Sources 
-* http://www.ncpublicschools.org/docs/src/researchers/profile.xlsx
-* **profileMetric 2006-2017** - http://www.ncpublicschools.org/docs/src/researchers/profile-metrics.xlsx
-* **funding 2002-2017** - http://www.ncpublicschools.org/docs/src/researchers/funding.xlsx
+* **Profile 2006-2017** http://www.ncpublicschools.org/docs/src/researchers/profile.xlsx
+* **Profile Metric 2006-2017** - http://www.ncpublicschools.org/docs/src/researchers/profile-metrics.xlsx
+* **Funding 2002-2017** - http://www.ncpublicschools.org/docs/src/researchers/funding.xlsx
 * **SPG 2017** - http://www.ncpublicschools.org/docs/accountability/reporting/2017/reports/spg1617.xlsx
 * **SPG 2016** - http://www.ncpublicschools.org/docs/accountability/reporting/spg1516.xlsx
 * **SPG 2015** - http://www.ncpublicschools.org/docs/accountability/reporting/spg1415.xlsx
