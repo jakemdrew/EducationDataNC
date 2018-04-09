@@ -1,4 +1,4 @@
-# North Carolina Educational Attainment Data Repository
+# The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools
 The North Carolina Public Schools Report Card and Statistical Profiles Databases contain a large volume of information about public, charter, and alternative schools in the State of North Carolina. Information that is made publicly accessible comprises data at the school, district, and state levels. This includes statistics on student and school performance, academic growth, diversity, safety, instructor experience levels, school funding, educational attainment, and much more.
 
 # What is Available?
@@ -15,6 +15,22 @@ This repository maintains educational attainment data specific to North Carolina
 
 # Reports 
 * [**NC Report 2016 Data Overview - MSDS 7331.pdf**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/NC%20Report%202016%20Data%20Overview%20-%20MSDS%207331.pdf) - Read this to gain a better understanding of what this data is all about!  Overview of NC public school data by Dr. Drew including the current state of majority minority public schools in NC. 
+
+# Citations
+Please cite this repository and send us an email, if you use it!
+
+Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
+
+## BibTeX 
+
+@misc{BelkNCEARepo,
+  author = {Drew, J.},
+  title = {The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}},
+}
 
 # Acknowledgements
 ![John M Belk Endowment](http://jmbendowment.org/wp-content/uploads/2015/03/BelkEndowment_-logo-2015.png)
