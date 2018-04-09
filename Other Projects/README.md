@@ -1,5 +1,5 @@
 # Other Projects
-This folder contains previous projects and code examples including various modeling examples for predicting graduation rates, average SAT Scores, and highly minority segregated public school campuses.   While we have included the historical machine learning datasets used in these example projects, it is highly reccommended that the school year specific datasets be used for any new projects going forward. 
+This folder contains previous projects and code examples including various models for predicting graduation rates, average SAT Scores, and highly minority segregated public school campuses.   While we have included the historical machine learning datasets used in these example projects, it is highly reccommended that the school year specific datasets be used for any new projects going forward. 
 
 # iPython Notebooks and Code Examples
 You can click on each of the notebook names below to preview the code using the [Nbviewer](nbviewer.jupyter.org).
