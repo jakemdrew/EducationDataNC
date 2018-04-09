@@ -9,20 +9,23 @@ This repository maintains educational attainment data specific to North Carolina
 **Each academic school year folder contains the following data:**  
 * **Raw Datasets** - These are the original data sources provided by http://ncpublicschools.org.  We write code to download each dataset  directly from the original URL, filter by academic school year (when necessary), rename the year and unit_code fields for consistency, and then save the data in its original format prior to any further processing. 
 * **School Datasets** - Once each raw data source is filtered by school year and saved in its original format, all files are processed, consolidated, and merged into a single file containing one record per public school campus, per year.  This process is complex and requires multiple table pivots and various other data transformations since many of the original data files contain multiple records per school campus, per year.  Once a master "Public Schools" file is created we also create three additional files with campuses segmented at the high school, middle school, and elementary school levels. We publish all of our source code, so you may click on any of the respective file links to view the original data file URLs and transformations at each processing stage. 
-* **Machine Learning Datasets** -  One machine learning (\_ML) dataset is created for each of the School Datasets.  These datasets are intended for modeling and have gone through many additional transformations specific to data pre-processing for machine learning.  This includes removing columns with large amounts of missing data, all unique values, or duplicated / highly correlated columns.  In addition, all categorical variables are converted to numeric data via a process called one-hot encoding.  Specific documentation and transformation reports for each dataset are avaiable in the source code folders.      
+* **Machine Learning Datasets** -  One machine learning (\_ML) dataset is created for each respective public school dataset.  These datasets are intended for classification or regression modeling and have gone through many additional transformations specific to data pre-processing for machine learning.  This includes removing columns with large amounts of missing data, all unique values, or duplicated / highly correlated columns.  In addition, all categorical variables are converted to numeric data via a process called one-hot encoding.  Specific documentation and transformation reports for each dataset are avaiable in the source code folders.
+
 # Data Documentation 
+**The following resources and reports are currently available to assist in understanding table, field, and code definitions for public school data:**
 * [**data-dictionary.pdf**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/data-dictionary.pdf) - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
 
 # Reports 
+**This folder includes links to research and reports produced using this repository.** 
 * [**NC Report 2016 Data Overview - MSDS 7331.pdf**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/NC%20Report%202016%20Data%20Overview%20-%20MSDS%207331.pdf) - Read this to gain a better understanding of what this data is all about!  Overview of NC public school data by Dr. Drew including the current state of majority minority public schools in NC. 
 
 # Citations
-Please cite this repository and send us an email, if you use it!
+**Please cite this repository and send us an email, if you use it!**
 
+## References
 Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
 
 ## BibTeX 
-
 @misc{BelkNCEARepo,
   author = {Drew, J.},
   title = {The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools},
