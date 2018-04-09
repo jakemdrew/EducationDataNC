@@ -33,3 +33,7 @@ The link below will display source code, outputs, and reports for each of the ra
 * **Economically Disadvantaged 2017** - http://www.ncpublicschools.org/docs/src/researchers/acc-ed-rates.xlsx'
 * **CTE Concentrations 2017** - http://www.ncpublicschools.org/docs/src/researchers/cte-concentrations.xlsx'
 * **CTE Credentials 2017** - http://www.ncpublicschools.org/docs/src/researchers/cte-credentials.xlsx'
+
+**See the following links for the most current data:**
+* http://www.ncpublicschools.org/accountability/reporting/
+* http://www.ncpublicschools.org/src/researchers/
