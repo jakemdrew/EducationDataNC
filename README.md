@@ -27,12 +27,12 @@ Drew J., The Belk Endowment Educational Attainment Data Repository for North Car
 
 ## BibTeX 
 @misc{BelkNCEARepo,  
-  author = {Drew, J.},  
-  title = {The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools},  
-  year = {2018},  
-  publisher = {GitHub},  
-  journal = {GitHub repository},  
-  howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}}  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;author = {Drew, J.},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;title = {The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;year = {2018},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;publisher = {GitHub},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;journal = {GitHub repository},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}}  
 }  
 
 # Acknowledgements
