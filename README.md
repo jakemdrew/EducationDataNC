@@ -26,14 +26,14 @@ This repository maintains educational attainment data specific to North Carolina
 Drew J., The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools, (2018), GitHub repository, https://github.com/jakemdrew/EducationDataNC
 
 ## BibTeX 
-@misc{BelkNCEARepo,
-  author = {Drew, J.},
-  title = {The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools},
-  year = {2018},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}}
-}
+@misc{BelkNCEARepo,  
+  author = {Drew, J.},  
+  title = {The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools},  
+  year = {2018},  
+  publisher = {GitHub},  
+  journal = {GitHub repository},  
+  howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}}  
+}  
 
 # Acknowledgements
 ![John M Belk Endowment](http://jmbendowment.org/wp-content/uploads/2015/03/BelkEndowment_-logo-2015.png)
