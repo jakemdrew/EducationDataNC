@@ -1,5 +1,5 @@
 # Raw Datasets - http://ncpublicschools.org
-There were a total of 20 data sources used to create the consolidated school datasets for 2017.  
+There were a total of 16 data sources used to create the consolidated school datasets for 2016.  
 
 The link below will display source code, outputs, and reports for each of the raw datasets in any web browser.  You may also download the source code files and modify / run them using Python, Pandas, Numpy, Scikit Learn, and iPython Notebook.  Each file link contains additional documentation on the code and transformations used to create a particular machine learning dataset.     
 
