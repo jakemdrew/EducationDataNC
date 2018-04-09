@@ -1,0 +1,1445 @@
+year,unit_code,grade,pct_prof,School_Name,Lea_Name,State_Name
+2017,00A000,6,45,NC Connections Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,00A000,9,34.8,NC Connections Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,00B000,6,36.8,NC Virtual Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,00B000,9,25.4,NC Virtual Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,010303,9,80.6,Alamance-Burlington Middle/Early College,Alamance-Burlington Schools,State Of North Carolina
+2017,010310,6,20.5,Broadview Middle,Alamance-Burlington Schools,State Of North Carolina
+2017,010324,9,48.6,Eastern Alamance High,Alamance-Burlington Schools,State Of North Carolina
+2017,010348,9,14.5,Graham High,Alamance-Burlington Schools,State Of North Carolina
+2017,010350,6,26.3,Graham Middle,Alamance-Burlington Schools,State Of North Carolina
+2017,010353,6,46.9,Hawfields Middle,Alamance-Burlington Schools,State Of North Carolina
+2017,010360,9,19,Hugh M Cummings High,Alamance-Burlington Schools,State Of North Carolina
+2017,010378,6,0,Ray Street Academy,Alamance-Burlington Schools,State Of North Carolina
+2017,010378,9,7.7,Ray Street Academy,Alamance-Burlington Schools,State Of North Carolina
+2017,010388,9,34.1,Southern High,Alamance-Burlington Schools,State Of North Carolina
+2017,010390,6,42.3,"Southern Middle, Graham",Alamance-Burlington Schools,State Of North Carolina
+2017,010394,6,34,Turrentine Middle,Alamance-Burlington Schools,State Of North Carolina
+2017,010396,9,24.6,Walter M Williams High,Alamance-Burlington Schools,State Of North Carolina
+2017,010400,9,48.7,Western Alamance High,Alamance-Burlington Schools,State Of North Carolina
+2017,010403,6,56.6,Western Middle,Alamance-Burlington Schools,State Of North Carolina
+2017,010406,6,55.5,Woodlawn Middle,Alamance-Burlington Schools,State Of North Carolina
+2017,01B000,6,50.7,River Mill Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,01B000,9,56.8,River Mill Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,01C000,6,60.4,Clover Garden,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,01C000,9,35.6,Clover Garden,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,01D000,6,71.1,The Hawbridge School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,01D000,9,61.3,The Hawbridge School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,020302,9,31.2,Alexander Central High,Alexander County Schools,State Of North Carolina
+2017,020303,9,61.8,Alexander Early College,Alexander County Schools,State Of North Carolina
+2017,020306,6,41.9,East Alexander Middle,Alexander County Schools,State Of North Carolina
+2017,020330,6,45.7,West Alexander Middle,Alexander County Schools,State Of North Carolina
+2017,030304,9,36.9,Alleghany High,Alleghany County Schools,State Of North Carolina
+2017,030308,6,42.9,Glade Creek Elementary,Alleghany County Schools,State Of North Carolina
+2017,030316,6,36.4,Piney Creek Elementary,Alleghany County Schools,State Of North Carolina
+2017,030320,6,32.6,Sparta Elementary,Alleghany County Schools,State Of North Carolina
+2017,040304,9,38.9,Anson Co. Early College High,Anson County Schools,State Of North Carolina
+2017,040305,9,0,Anson Academy,Anson County Schools,State Of North Carolina
+2017,040306,9,12.5,Anson High School,Anson County Schools,State Of North Carolina
+2017,040308,6,63.3,Ansonville Elementary,Anson County Schools,State Of North Carolina
+2017,040316,6,24.2,Lilesville Elementary,Anson County Schools,State Of North Carolina
+2017,040324,6,19.2,Morven Elementary,Anson County Schools,State Of North Carolina
+2017,040328,6,43.8,Peachland-Polkton Elem,Anson County Schools,State Of North Carolina
+2017,040330,6,16.4,Wadesboro Elementary,Anson County Schools,State Of North Carolina
+2017,040700,9,12.5,Anson New Tech High,Anson County Schools,State Of North Carolina
+2017,050302,9,40.7,Ashe County High,Ashe County Schools,State Of North Carolina
+2017,050310,6,41.5,Blue Ridge Elementary,Ashe County Schools,State Of North Carolina
+2017,050330,6,57.5,"Mountain View Elementary, Jefferson",Ashe County Schools,State Of North Carolina
+2017,050335,6,43.4,Westwood Elementary,Ashe County Schools,State Of North Carolina
+2017,060302,9,28.1,Avery County High,Avery County Schools,State Of North Carolina
+2017,060310,6,57.4,Cranberry Middle,Avery County Schools,State Of North Carolina
+2017,060318,6,66.3,Avery Middle,Avery County Schools,State Of North Carolina
+2017,060334,9,0,Blue Ridge Academy,Avery County Schools,State Of North Carolina
+2017,060701,9,55.6,Avery High Viking Academy,Avery County Schools,State Of North Carolina
+2017,06A000,9,0,Grandfather Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,06B000,6,0,Williams Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,06B000,9,14.3,Williams Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,070308,6,52.2,Bath Elementary,Beaufort County Schools,State Of North Carolina
+2017,070310,6,0,B C Ed Tech Center,Beaufort County Schools,State Of North Carolina
+2017,070310,9,0,B C Ed Tech Center,Beaufort County Schools,State Of North Carolina
+2017,070311,9,73.2,Beaufort Co Early College High,Beaufort County Schools,State Of North Carolina
+2017,070325,6,35.9,Chocowinity Middle,Beaufort County Schools,State Of North Carolina
+2017,070329,6,34.1,"Northeast Elementary, Pinetown",Beaufort County Schools,State Of North Carolina
+2017,070330,9,30.3,"Northside High, Pinetown",Beaufort County Schools,State Of North Carolina
+2017,070338,6,36.9,P S Jones Middle,Beaufort County Schools,State Of North Carolina
+2017,070339,9,20.6,Southside High,Beaufort County Schools,State Of North Carolina
+2017,070340,6,41.7,S W Snowden Elementary,Beaufort County Schools,State Of North Carolina
+2017,070342,9,23.9,Washington High,Beaufort County Schools,State Of North Carolina
+2017,07A000,6,30,Washington Montessori,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,07A000,9,29.4,Washington Montessori,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,080311,9,50,Bertie Early College High,Bertie County Schools,State Of North Carolina
+2017,080312,9,0,Bertie High,Bertie County Schools,State Of North Carolina
+2017,080314,6,39.9,Bertie Middle,Bertie County Schools,State Of North Carolina
+2017,080700,9,15.9,Bertie STEM High,Bertie County Schools,State Of North Carolina
+2017,090315,6,32,Bladenboro Middle,Bladen County Schools,State Of North Carolina
+2017,090320,6,53.6,Clarkton School of Discovery,Bladen County Schools,State Of North Carolina
+2017,090328,6,7.7,East Arcadia Elementary,Bladen County Schools,State Of North Carolina
+2017,090330,9,24.7,East Bladen High,Bladen County Schools,State Of North Carolina
+2017,090332,6,22,Elizabethtown Middle,Bladen County Schools,State Of North Carolina
+2017,090365,6,25,Tar Heel Middle,Bladen County Schools,State Of North Carolina
+2017,090368,9,24.7,West Bladen High,Bladen County Schools,State Of North Carolina
+2017,09A000,6,5.9,Paul R Brown Leadership Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,09A000,9,5.9,Paul R Brown Leadership Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,100307,9,78.7,Brunswick County Early College,Brunswick County Schools,State Of North Carolina
+2017,100308,6,0,Brunswick County Academy,Brunswick County Schools,State Of North Carolina
+2017,100308,9,0,Brunswick County Academy,Brunswick County Schools,State Of North Carolina
+2017,100309,6,31.2,Cedar Grove Middle,Brunswick County Schools,State Of North Carolina
+2017,100316,6,36.7,Leland Middle,Brunswick County Schools,State Of North Carolina
+2017,100326,9,29.8,North Brunswick High,Brunswick County Schools,State Of North Carolina
+2017,100332,6,48,Shallotte Middle,Brunswick County Schools,State Of North Carolina
+2017,100334,9,36.5,South Brunswick High,Brunswick County Schools,State Of North Carolina
+2017,100335,6,42.6,South Brunswick Middle,Brunswick County Schools,State Of North Carolina
+2017,100344,6,47.8,Waccamaw,Brunswick County Schools,State Of North Carolina
+2017,100348,9,35.8,West Brunswick High,Brunswick County Schools,State Of North Carolina
+2017,10A000,6,64.8,Charter Day School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,110303,9,10.5,Community High School,Buncombe County Schools,State Of North Carolina
+2017,110304,9,52.6,Reynolds High,Buncombe County Schools,State Of North Carolina
+2017,110306,6,53,Reynolds Middle,Buncombe County Schools,State Of North Carolina
+2017,110322,9,80.4,Early College,Buncombe County Schools,State Of North Carolina
+2017,110326,6,66,Cane Creek Middle,Buncombe County Schools,State Of North Carolina
+2017,110336,9,35.3,Owen High,Buncombe County Schools,State Of North Carolina
+2017,110338,6,50.9,Owen Middle,Buncombe County Schools,State Of North Carolina
+2017,110340,9,32.4,Erwin High,Buncombe County Schools,State Of North Carolina
+2017,110352,9,31.2,Enka High,Buncombe County Schools,State Of North Carolina
+2017,110380,9,55.4,North Buncombe High,Buncombe County Schools,State Of North Carolina
+2017,110382,6,54.1,North Windy Ridge Intermediate,Buncombe County Schools,State Of North Carolina
+2017,110416,9,58.2,Roberson High,Buncombe County Schools,State Of North Carolina
+2017,110420,6,0,Valley Springs Middle,Buncombe County Schools,State Of North Carolina
+2017,110425,6,51.2,Enka Intermediate,Buncombe County Schools,State Of North Carolina
+2017,110450,6,54.4,Koontz Intermediate,Buncombe County Schools,State Of North Carolina
+2017,110451,6,40.9,Eblen Intermediate,Buncombe County Schools,State Of North Carolina
+2017,110500,9,100,Nesbitt Discovery Academy,Buncombe County Schools,State Of North Carolina
+2017,111302,9,55.8,Asheville High,Asheville City Schools,State Of North Carolina
+2017,111356,6,55.1,Asheville Middle,Asheville City Schools,State Of North Carolina
+2017,111700,9,61.3,School of Inquiry and Life Sciences,Asheville City Schools,State Of North Carolina
+2017,11A000,6,66,Evergreen Community Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,11B000,6,69.8,ArtSpace Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,11C000,6,43.9,Invest Collegiate - Imagine,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,11C000,9,38.5,Invest Collegiate - Imagine,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,11D000,6,62.5,The Franklin School of Innovation,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,11D000,9,32.3,The Franklin School of Innovation,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,11K000,6,65,Francine Delany New School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,120308,6,0,Hallyburton Academy,Burke County Schools,State Of North Carolina
+2017,120308,9,0,Hallyburton Academy,Burke County Schools,State Of North Carolina
+2017,120314,9,52.4,East Burke High,Burke County Schools,State Of North Carolina
+2017,120315,6,45.6,East Burke Middle,Burke County Schools,State Of North Carolina
+2017,120318,9,35.1,Freedom High,Burke County Schools,State Of North Carolina
+2017,120334,6,61.4,"Heritage Middle, Valdese",Burke County Schools,State Of North Carolina
+2017,120346,9,52.4,Jimmy C Draughn High School,Burke County Schools,State Of North Carolina
+2017,120350,6,56.7,Liberty Middle,Burke County Schools,State Of North Carolina
+2017,120352,6,0,North Liberty,Burke County Schools,State Of North Carolina
+2017,120352,9,0,North Liberty,Burke County Schools,State Of North Carolina
+2017,120370,9,44.8,Robert L. Patton High School,Burke County Schools,State Of North Carolina
+2017,120376,6,37.2,Table Rock Middle,Burke County Schools,State Of North Carolina
+2017,120390,6,35.2,Walter R Johnson Middle,Burke County Schools,State Of North Carolina
+2017,12A000,6,53.8,New Dimensions,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,130307,9,65.3,Cox Mill High School,Cabarrus County Schools,State Of North Carolina
+2017,130310,9,32.4,Central Cabarrus High,Cabarrus County Schools,State Of North Carolina
+2017,130313,6,27.8,Concord Middle,Cabarrus County Schools,State Of North Carolina
+2017,130314,9,31.8,Concord High,Cabarrus County Schools,State Of North Carolina
+2017,130315,6,74.8,J N Fries Magnet School,Cabarrus County Schools,State Of North Carolina
+2017,130316,9,33.7,Jay M Robinson High,Cabarrus County Schools,State Of North Carolina
+2017,130318,6,35.1,C C Griffin Middle,Cabarrus County Schools,State Of North Carolina
+2017,130319,9,0,Cox Mill Elementary,Cabarrus County Schools,State Of North Carolina
+2017,130320,6,69.3,Harris Road Middle,Cabarrus County Schools,State Of North Carolina
+2017,130323,6,55.4,Mount Pleasant Middle,Cabarrus County Schools,State Of North Carolina
+2017,130324,9,43,Mount Pleasant High,Cabarrus County Schools,State Of North Carolina
+2017,130326,9,36.9,Northwest Cabarrus High,Cabarrus County Schools,State Of North Carolina
+2017,130327,6,47.2,Northwest Cabarrus Middle,Cabarrus County Schools,State Of North Carolina
+2017,130332,9,48.9,Hickory Ridge High,Cabarrus County Schools,State Of North Carolina
+2017,130333,9,0,"Performance Learning Center, Concord",Cabarrus County Schools,State Of North Carolina
+2017,130346,6,63.5,Hickory Ridge Middle,Cabarrus County Schools,State Of North Carolina
+2017,130349,9,62.9,Cabarrus Early College of Technology,Cabarrus County Schools,State Of North Carolina
+2017,130350,9,65.5,Cabarrus-Kannapolis Early Coll,Cabarrus County Schools,State Of North Carolina
+2017,130355,6,41,Harold E. Winkler Middle,Cabarrus County Schools,State Of North Carolina
+2017,132304,9,20.9,A L Brown High,Kannapolis City Schools,State Of North Carolina
+2017,132329,6,31.5,Kannapolis Intermediate,Kannapolis City Schools,State Of North Carolina
+2017,13A000,6,43.5,Carolina International School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,13A000,9,15.7,Carolina International School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,13B000,6,49.2,Cabarrus Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,13B000,9,37.5,Cabarrus Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,13C000,6,20,A.C.E. Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,13D000,6,44,Kannapolis Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,140305,9,57.6,Caldwell Career Cen Mid. Coll.,Caldwell County Schools,State Of North Carolina
+2017,140306,6,0,Gateway School,Caldwell County Schools,State Of North Carolina
+2017,140306,9,0,Gateway School,Caldwell County Schools,State Of North Carolina
+2017,140308,6,47.5,Collettsville School,Caldwell County Schools,State Of North Carolina
+2017,140309,9,72.9,Caldwell Early College,Caldwell County Schools,State Of North Carolina
+2017,140332,6,30.1,Gamewell Middle,Caldwell County Schools,State Of North Carolina
+2017,140336,6,51.3,Granite Falls Middle,Caldwell County Schools,State Of North Carolina
+2017,140344,6,21.7,Happy Valley Elementary,Caldwell County Schools,State Of North Carolina
+2017,140348,9,38.8,Hibriten High,Caldwell County Schools,State Of North Carolina
+2017,140356,6,54.8,Hudson Middle,Caldwell County Schools,State Of North Carolina
+2017,140360,6,44.4,Kings Creek Elementary,Caldwell County Schools,State Of North Carolina
+2017,140368,6,46.1,William Lenoir Middle,Caldwell County Schools,State Of North Carolina
+2017,140376,6,0,"Oak Hill Elementary, Lenoir",Caldwell County Schools,State Of North Carolina
+2017,140386,9,35.9,South Caldwell High,Caldwell County Schools,State Of North Carolina
+2017,140390,9,31,West Caldwell High,Caldwell County Schools,State Of North Carolina
+2017,150304,9,33.3,Camden County High,Camden County Schools,State Of North Carolina
+2017,150310,6,48.1,Camden Intermediate,Camden County Schools,State Of North Carolina
+2017,150350,9,37.5,Camden Early College High,Camden County Schools,State Of North Carolina
+2017,160309,6,0,Bridges School,Carteret County Public Schools,State Of North Carolina
+2017,160309,9,0,Bridges School,Carteret County Public Schools,State Of North Carolina
+2017,160310,6,44.6,Beaufort Middle,Carteret County Public Schools,State Of North Carolina
+2017,160311,6,68.1,Broad Creek Middle,Carteret County Public Schools,State Of North Carolina
+2017,160313,9,37.1,East Carteret High,Carteret County Public Schools,State Of North Carolina
+2017,160314,9,53,Croatan High,Carteret County Public Schools,State Of North Carolina
+2017,160318,6,59.2,Morehead City Middle,Carteret County Public Schools,State Of North Carolina
+2017,160326,6,56.2,Newport Middle,Carteret County Public Schools,State Of North Carolina
+2017,160332,6,56.9,Down East Middle and Smyrna Elementary,Carteret County Public Schools,State Of North Carolina
+2017,160344,9,43.5,West Carteret High,Carteret County Public Schools,State Of North Carolina
+2017,170316,9,18.5,Bartlett Yancey High,Caswell County Schools,State Of North Carolina
+2017,170338,6,35.4,N L Dillard Middle,Caswell County Schools,State Of North Carolina
+2017,180304,6,50.6,Balls Creek Elementary,Catawba County Schools,State Of North Carolina
+2017,180308,9,51.7,Bandys High,Catawba County Schools,State Of North Carolina
+2017,180312,6,39.5,Banoak Elementary,Catawba County Schools,State Of North Carolina
+2017,180316,6,38.7,Blackburn Elementary,Catawba County Schools,State Of North Carolina
+2017,180320,9,32.1,Bunker Hill High,Catawba County Schools,State Of North Carolina
+2017,180323,6,0,Catawba Rosenwald Education Center,Catawba County Schools,State Of North Carolina
+2017,180323,9,0,Catawba Rosenwald Education Center,Catawba County Schools,State Of North Carolina
+2017,180324,6,31.3,Catawba Elementary School,Catawba County Schools,State Of North Carolina
+2017,180325,9,76.2,Challenger Early College High,Catawba County Schools,State Of North Carolina
+2017,180326,6,53.8,Charles H Tuttle Elementary,Catawba County Schools,State Of North Carolina
+2017,180332,6,28.6,Claremont Elementary,Catawba County Schools,State Of North Carolina
+2017,180336,6,61.3,Clyde Campbell Elementary,Catawba County Schools,State Of North Carolina
+2017,180340,9,41.7,Fred T Foard High,Catawba County Schools,State Of North Carolina
+2017,180343,6,17.9,Lyle Creek Elementary,Catawba County Schools,State Of North Carolina
+2017,180344,6,42.5,Maiden Elementary,Catawba County Schools,State Of North Carolina
+2017,180348,9,31,Maiden High,Catawba County Schools,State Of North Carolina
+2017,180356,6,64.2,"Mountain View Elementary, Hickory",Catawba County Schools,State Of North Carolina
+2017,180360,6,47,Oxford Elementary,Catawba County Schools,State Of North Carolina
+2017,180368,6,47.8,Sherrills Ford Elementary,Catawba County Schools,State Of North Carolina
+2017,180372,6,28.6,Saint Stephens Elementary,Catawba County Schools,State Of North Carolina
+2017,180376,9,42.3,Saint Stephens High,Catawba County Schools,State Of North Carolina
+2017,180379,6,50.6,Snow Creek Elementary,Catawba County Schools,State Of North Carolina
+2017,180380,6,52.9,Startown Elementary,Catawba County Schools,State Of North Carolina
+2017,180388,6,54.9,Webb A Murray Elementary,Catawba County Schools,State Of North Carolina
+2017,181312,6,53.4,Northview Middle,Hickory City Schools,State Of North Carolina
+2017,181316,6,44.2,Grandview Middle,Hickory City Schools,State Of North Carolina
+2017,181318,9,8.6,Hickory Career Arts Magnet High School,Hickory City Schools,State Of North Carolina
+2017,181322,9,44.4,Hickory High,Hickory City Schools,State Of North Carolina
+2017,182316,9,15.1,Newton-Conover High,Newton Conover City Schools,State Of North Carolina
+2017,182321,6,41,Newton-Conover Middle,Newton Conover City Schools,State Of North Carolina
+2017,182700,9,57.7,Discovery High School,Newton Conover City Schools,State Of North Carolina
+2017,190304,6,44.1,Bennett School,Chatham County Schools,State Of North Carolina
+2017,190308,6,56.8,Bonlee School,Chatham County Schools,State Of North Carolina
+2017,190312,6,32,Chatham Middle,Chatham County Schools,State Of North Carolina
+2017,190316,9,39.6,Chatham Central High,Chatham County Schools,State Of North Carolina
+2017,190328,6,40.6,Horton Middle,Chatham County Schools,State Of North Carolina
+2017,190332,6,62.5,J S Waters School,Chatham County Schools,State Of North Carolina
+2017,190336,9,22.1,Jordan Matthews High,Chatham County Schools,State Of North Carolina
+2017,190339,6,54.3,Margaret B. Pollard Middle,Chatham County Schools,State Of North Carolina
+2017,190340,6,40,Moncure School,Chatham County Schools,State Of North Carolina
+2017,190342,9,52.3,Northwood High,Chatham County Schools,State Of North Carolina
+2017,190352,6,55.3,Silk Hope School,Chatham County Schools,State Of North Carolina
+2017,190501,9,0,Chatham School of Science & Engineering,Chatham County Schools,State Of North Carolina
+2017,19A000,6,61,Chatham Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,19A000,9,58.7,Chatham Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,19B000,6,79.5,Woods Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,19B000,9,82.5,Woods Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,19C000,6,61.9,Willow Oak Montessori,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,200308,9,26.5,Andrews High,Cherokee County Schools,State Of North Carolina
+2017,200310,6,60,Andrews Middle,Cherokee County Schools,State Of North Carolina
+2017,200312,6,50,Hiwassee Dam Elementary/Middle,Cherokee County Schools,State Of North Carolina
+2017,200314,9,42.9,Hiwassee Dam High,Cherokee County Schools,State Of North Carolina
+2017,200320,6,53.6,Martins Creek Elementary/Mid,Cherokee County Schools,State Of North Carolina
+2017,200328,9,18.3,Murphy High,Cherokee County Schools,State Of North Carolina
+2017,200330,6,48.1,Murphy Middle,Cherokee County Schools,State Of North Carolina
+2017,200336,6,56.5,Ranger Elementary/Middle,Cherokee County Schools,State Of North Carolina
+2017,200350,9,69,Tri-County Early College High,Cherokee County Schools,State Of North Carolina
+2017,20A000,6,41.2,The Learning Center,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,210304,6,35.5,Chowan Middle,Edenton-Chowan Schools,State Of North Carolina
+2017,210312,9,28.4,John A Holmes High,Edenton-Chowan Schools,State Of North Carolina
+2017,220310,9,37.4,Hayesville High,Clay County Schools,State Of North Carolina
+2017,220312,6,36.5,Hayesville Middle,Clay County Schools,State Of North Carolina
+2017,230312,9,33.8,Burns High,Cleveland County Schools,State Of North Carolina
+2017,230316,6,49.6,Burns Middle,Cleveland County Schools,State Of North Carolina
+2017,230322,9,68.5,Cleveland ECHS,Cleveland County Schools,State Of North Carolina
+2017,230324,9,27.8,Crest High,Cleveland County Schools,State Of North Carolina
+2017,230328,6,47.8,Crest Middle,Cleveland County Schools,State Of North Carolina
+2017,230330,6,0,"Turning Point Academy, Shelby",Cleveland County Schools,State Of North Carolina
+2017,230330,9,0,"Turning Point Academy, Shelby",Cleveland County Schools,State Of North Carolina
+2017,230336,6,42.1,Shelby Intermediate,Cleveland County Schools,State Of North Carolina
+2017,230350,9,29.5,Kings Mountain High,Cleveland County Schools,State Of North Carolina
+2017,230351,6,50,Kings Mountain Intermediate,Cleveland County Schools,State Of North Carolina
+2017,230359,6,0,North Shelby,Cleveland County Schools,State Of North Carolina
+2017,230359,9,0,North Shelby,Cleveland County Schools,State Of North Carolina
+2017,230361,9,31.9,Shelby High,Cleveland County Schools,State Of North Carolina
+2017,23A000,6,62,Pinnacle Classical Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,23A000,9,46.4,Pinnacle Classical Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,240304,6,38.1,Acme Delco Middle,Columbus County Schools,State Of North Carolina
+2017,240328,6,48.8,Cerro Gordo Elementary,Columbus County Schools,State Of North Carolina
+2017,240330,6,22.2,Chadbourn Middle,Columbus County Schools,State Of North Carolina
+2017,240334,9,31.2,East Columbus High,Columbus County Schools,State Of North Carolina
+2017,240344,6,24.2,Evergreen Elementary,Columbus County Schools,State Of North Carolina
+2017,240356,6,18.1,Hallsboro Middle,Columbus County Schools,State Of North Carolina
+2017,240368,6,50.7,Nakina Middle,Columbus County Schools,State Of North Carolina
+2017,240371,9,33.2,South Columbus High,Columbus County Schools,State Of North Carolina
+2017,240373,9,43.4,CCCA - Fair Bluff /Southeastern Campuses,Columbus County Schools,State Of North Carolina
+2017,240376,6,31.3,Tabor City Middle,Columbus County Schools,State Of North Carolina
+2017,240380,9,36.5,West Columbus High,Columbus County Schools,State Of North Carolina
+2017,240388,6,40.3,Williams Township,Columbus County Schools,State Of North Carolina
+2017,241304,6,45.5,"Central Middle, Whiteville",Whiteville City Schools,State Of North Carolina
+2017,241312,9,0,North Whiteville Academy,Whiteville City Schools,State Of North Carolina
+2017,241316,9,32.8,Whiteville High,Whiteville City Schools,State Of North Carolina
+2017,24B000,6,0,Thomas Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,24B000,9,30.8,Thomas Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,24N000,6,46,Columbus Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,250314,9,41.9,Craven Early College High,Craven County Schools,State Of North Carolina
+2017,250321,9,61,Early College EAST High,Craven County Schools,State Of North Carolina
+2017,250324,6,47.1,Grover C Fields Middle,Craven County Schools,State Of North Carolina
+2017,250332,6,46.8,H J MacDonald Middle,Craven County Schools,State Of North Carolina
+2017,250340,9,38.8,Havelock High,Craven County Schools,State Of North Carolina
+2017,250344,6,40.8,Havelock Middle,Craven County Schools,State Of North Carolina
+2017,250356,9,38.3,New Bern High,Craven County Schools,State Of North Carolina
+2017,250368,6,58,Tucker Creek Middle,Craven County Schools,State Of North Carolina
+2017,250372,9,27.5,West Craven High,Craven County Schools,State Of North Carolina
+2017,250376,6,44,West Craven Middle,Craven County Schools,State Of North Carolina
+2017,260318,9,49.5,Jack Britt High,Cumberland County Schools,State Of North Carolina
+2017,260322,9,15.9,Douglas Byrd High,Cumberland County Schools,State Of North Carolina
+2017,260325,9,38.1,Cape Fear High,Cumberland County Schools,State Of North Carolina
+2017,260336,6,33,Anne Chesnutt Middle,Cumberland County Schools,State Of North Carolina
+2017,260347,9,66.2,Cumberland International Early CollegeHS,Cumberland County Schools,State Of North Carolina
+2017,260354,9,81.6,Cross Creek Early College,Cumberland County Schools,State Of North Carolina
+2017,260357,9,38.1,Grays Creek High,Cumberland County Schools,State Of North Carolina
+2017,260358,6,40.7,Luther Nick Jeralds Middle,Cumberland County Schools,State Of North Carolina
+2017,260359,9,16.7,E E Smith High,Cumberland County Schools,State Of North Carolina
+2017,260362,6,49.4,Grays Creek Middle,Cumberland County Schools,State Of North Carolina
+2017,260365,6,45.8,R Max Abbott Middle,Cumberland County Schools,State Of North Carolina
+2017,260368,6,50.6,Hope Mills Middle,Cumberland County Schools,State Of North Carolina
+2017,260369,6,65,John R Griffin Middle,Cumberland County Schools,State Of North Carolina
+2017,260371,6,29.2,Ireland Drive Middle,Cumberland County Schools,State Of North Carolina
+2017,260372,6,25.9,Lewis Chapel Middle,Cumberland County Schools,State Of North Carolina
+2017,260374,9,0,Alger B. Wilkins High School,Cumberland County Schools,State Of North Carolina
+2017,260383,6,56.5,Mac Williams Middle,Cumberland County Schools,State Of North Carolina
+2017,260388,9,55.1,Massey Hill Classical High,Cumberland County Schools,State Of North Carolina
+2017,260406,6,59.6,Pine Forest Middle,Cumberland County Schools,State Of North Carolina
+2017,260408,9,35.4,Pine Forest High,Cumberland County Schools,State Of North Carolina
+2017,260411,9,35.2,Reid Ross Classical High,Cumberland County Schools,State Of North Carolina
+2017,260413,6,10.7,Howard Learning Academy,Cumberland County Schools,State Of North Carolina
+2017,260417,6,52,New Century International Middle,Cumberland County Schools,State Of North Carolina
+2017,260418,6,66.7,Seventy-First Classical Middle,Cumberland County Schools,State Of North Carolina
+2017,260419,6,55.8,Reid Ross Classical Middle,Cumberland County Schools,State Of North Carolina
+2017,260424,9,17.6,Seventy-First High,Cumberland County Schools,State Of North Carolina
+2017,260425,6,41.6,South View Middle,Cumberland County Schools,State Of North Carolina
+2017,260427,9,24.3,South View High,Cumberland County Schools,State Of North Carolina
+2017,260428,6,28.8,Spring Lake Middle,Cumberland County Schools,State Of North Carolina
+2017,260446,9,28.9,Terry Sanford High,Cumberland County Schools,State Of North Carolina
+2017,260449,9,0,Ramsey Street High,Cumberland County Schools,State Of North Carolina
+2017,260454,6,31.2,Westover Middle,Cumberland County Schools,State Of North Carolina
+2017,260455,9,17.7,Westover High,Cumberland County Schools,State Of North Carolina
+2017,260700,9,67.7,Cumberland Polytechnic,Cumberland County Schools,State Of North Carolina
+2017,26B000,6,54.8,Alpha Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,26B000,9,42.1,Alpha Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,26C000,6,31.6,The Capitol Encore Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,270306,9,40.4,Currituck County High,Currituck County Schools,State Of North Carolina
+2017,270308,6,39.5,Currituck County Middle,Currituck County Schools,State Of North Carolina
+2017,270311,9,61.4,The JP Knapp ECH (i)School,Currituck County Schools,State Of North Carolina
+2017,270318,6,54.7,Moyock Middle,Currituck County Schools,State Of North Carolina
+2017,27A000,6,0,Water's Edge Village School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,280304,6,69.6,Cape Hatteras Secondary School,Dare County Schools,State Of North Carolina
+2017,280304,9,29.4,Cape Hatteras Secondary School,Dare County Schools,State Of North Carolina
+2017,280306,9,0,Dare County Alternative School,Dare County Schools,State Of North Carolina
+2017,280316,9,40.5,Manteo High School,Dare County Schools,State Of North Carolina
+2017,280320,6,42.7,Manteo Middle School,Dare County Schools,State Of North Carolina
+2017,280328,6,62.1,First Flight Middle School,Dare County Schools,State Of North Carolina
+2017,280330,9,43.5,First Flight High School,Dare County Schools,State Of North Carolina
+2017,290308,9,39,Central Davidson High,Davidson County Schools,State Of North Carolina
+2017,290309,6,45.3,Central Davidson Middle,Davidson County Schools,State Of North Carolina
+2017,290310,6,0,Stoner-Thomas School,Davidson County Schools,State Of North Carolina
+2017,290310,9,0,Stoner-Thomas School,Davidson County Schools,State Of North Carolina
+2017,290314,9,0,Davidson County High School,Davidson County Schools,State Of North Carolina
+2017,290315,9,83.3,Davidson Early College,Davidson County Schools,State Of North Carolina
+2017,290322,6,42.6,E Lawson Brown Middle,Davidson County Schools,State Of North Carolina
+2017,290324,9,39.7,East Davidson High,Davidson County Schools,State Of North Carolina
+2017,290334,6,56.8,Ledford Middle,Davidson County Schools,State Of North Carolina
+2017,290336,9,48.9,Ledford Senior High,Davidson County Schools,State Of North Carolina
+2017,290348,9,45.9,North Davidson High,Davidson County Schools,State Of North Carolina
+2017,290350,6,46,North Davidson Middle,Davidson County Schools,State Of North Carolina
+2017,290351,6,62,Oak Grove Middle,Davidson County Schools,State Of North Carolina
+2017,290365,9,31.2,South Davidson High,Davidson County Schools,State Of North Carolina
+2017,290367,6,37.9,South Davidson Middle,Davidson County Schools,State Of North Carolina
+2017,290376,6,37.4,Tyro Middle,Davidson County Schools,State Of North Carolina
+2017,290388,9,32.4,West Davidson High,Davidson County Schools,State Of North Carolina
+2017,290389,9,57.4,Yadkin Valley Regional Career Academy,Davidson County Schools,State Of North Carolina
+2017,291332,6,37.4,Lexington Middle School,Lexington City Schools,State Of North Carolina
+2017,291336,9,24.5,Lexington Senior High,Lexington City Schools,State Of North Carolina
+2017,291350,6,0,South Lexington Development Center,Lexington City Schools,State Of North Carolina
+2017,292320,6,30.1,Thomasville Middle,Thomasville City Schools,State Of North Carolina
+2017,292324,9,26.9,Thomasville High,Thomasville City Schools,State Of North Carolina
+2017,300306,6,0,Central Davie Academy,Davie County Schools,State Of North Carolina
+2017,300306,9,0,Central Davie Academy,Davie County Schools,State Of North Carolina
+2017,300312,9,44.2,Davie County High,Davie County Schools,State Of North Carolina
+2017,300314,9,80.9,Davie County Early College High,Davie County Schools,State Of North Carolina
+2017,300325,6,57.7,North Davie Middle,Davie County Schools,State Of North Carolina
+2017,300330,6,47.3,South Davie Middle,Davie County Schools,State Of North Carolina
+2017,300337,6,54,William Ellis Middle,Davie County Schools,State Of North Carolina
+2017,310304,6,17.8,B F Grady Elementary,Duplin County Schools,State Of North Carolina
+2017,310308,6,30.3,Beulaville Elementary,Duplin County Schools,State Of North Carolina
+2017,310324,6,27.6,Charity Middle,Duplin County Schools,State Of North Carolina
+2017,310330,6,45.5,Chinquapin Elementary,Duplin County Schools,State Of North Carolina
+2017,310338,9,39.6,Duplin Early College High,Duplin County Schools,State Of North Carolina
+2017,310340,6,27.2,E E Smith Middle,Duplin County Schools,State Of North Carolina
+2017,310344,9,32.7,East Duplin High,Duplin County Schools,State Of North Carolina
+2017,310352,9,11.9,James Kenan High,Duplin County Schools,State Of North Carolina
+2017,310360,6,43.1,North Duplin Elementary,Duplin County Schools,State Of North Carolina
+2017,310364,9,24.7,North Duplin Jr Sr High,Duplin County Schools,State Of North Carolina
+2017,310392,9,19,Wallace-Rose Hill High,Duplin County Schools,State Of North Carolina
+2017,310396,6,9.3,Warsaw Middle,Duplin County Schools,State Of North Carolina
+2017,320306,6,20.3,"Brogden Middle, Durham",Durham Public Schools,State Of North Carolina
+2017,320309,9,68.1,J D Clement Early College HS,Durham Public Schools,State Of North Carolina
+2017,320312,9,34.9,C E Jordan High,Durham Public Schools,State Of North Carolina
+2017,320314,6,35.1,The School for Creative Studies,Durham Public Schools,State Of North Carolina
+2017,320314,9,20.7,The School for Creative Studies,Durham Public Schools,State Of North Carolina
+2017,320316,6,22.4,George L Carrington Middle,Durham Public Schools,State Of North Carolina
+2017,320317,9,34.8,City of Medicine Academy,Durham Public Schools,State Of North Carolina
+2017,320322,9,0,Durham's Performance Learning Center,Durham Public Schools,State Of North Carolina
+2017,320323,6,55,Durham School of the Arts,Durham Public Schools,State Of North Carolina
+2017,320323,9,52.6,Durham School of the Arts,Durham Public Schools,State Of North Carolina
+2017,320325,9,13.7,Hillside High,Durham Public Schools,State Of North Carolina
+2017,320336,6,0,DPS Hospital School,Durham Public Schools,State Of North Carolina
+2017,320338,6,29.6,James E Shepard Middle,Durham Public Schools,State Of North Carolina
+2017,320340,6,53.7,Little River Elementary,Durham Public Schools,State Of North Carolina
+2017,320341,6,0,Lakeview School,Durham Public Schools,State Of North Carolina
+2017,320341,9,0,Lakeview School,Durham Public Schools,State Of North Carolina
+2017,320342,6,50.5,Lakewood Montessori Middle,Durham Public Schools,State Of North Carolina
+2017,320343,6,33.3,Lucas Middle,Durham Public Schools,State Of North Carolina
+2017,320346,6,29.2,Lowe's Grove Middle,Durham Public Schools,State Of North Carolina
+2017,320355,6,21.6,Neal Middle,Durham Public Schools,State Of North Carolina
+2017,320356,9,17.5,Northern High,Durham Public Schools,State Of North Carolina
+2017,320365,9,25.6,"Riverside High, Durham",Durham Public Schools,State Of North Carolina
+2017,320366,6,41.7,Sherwood Githens Middle,Durham Public Schools,State Of North Carolina
+2017,320368,9,6.3,Southern School of Energy and Sustainabi,Durham Public Schools,State Of North Carolina
+2017,320370,6,49.3,Rogers-Herr Middle,Durham Public Schools,State Of North Carolina
+2017,320701,9,21.7,Hillside New Tech High,Durham Public Schools,State Of North Carolina
+2017,32A000,6,30.1,Maureen Joy Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32B000,6,14.3,Healthy Start Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32C000,6,38.9,Carter Community Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32D000,6,48.6,Kestrel Heights School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32D000,9,13.5,Kestrel Heights School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32H000,6,47.3,Research Triangle Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32K000,6,51.9,Central Park School For Child,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32L000,6,67.3,Voyager Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32L000,9,44.6,Voyager Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32M000,6,17.4,Global Scholars Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32N000,9,82.5,Research Triangle High School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32P000,6,20,The Institute Development Young Leaders,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,32S000,6,10,KIPP Durham College Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,330326,9,67.6,Edgecombe Early College High,Edgecombe County Public School,State Of North Carolina
+2017,330328,9,10.9,North Edgecombe High,Edgecombe County Public School,State Of North Carolina
+2017,330332,6,11.1,"Phillips Middle, Battleboro",Edgecombe County Public School,State Of North Carolina
+2017,330340,6,26.8,South Edgecombe Middle,Edgecombe County Public School,State Of North Carolina
+2017,330340,9,0,South Edgecombe Middle,Edgecombe County Public School,State Of North Carolina
+2017,330344,6,11.6,W A Pattillo Middle,Edgecombe County Public School,State Of North Carolina
+2017,330348,6,25.7,West Edgecombe Middle,Edgecombe County Public School,State Of North Carolina
+2017,330350,9,21.4,SouthWest Edgecombe High,Edgecombe County Public School,State Of North Carolina
+2017,330358,9,9.7,Tarboro High,Edgecombe County Public School,State Of North Carolina
+2017,330360,6,21.9,Martin Millennium Academy,Edgecombe County Public School,State Of North Carolina
+2017,33A000,6,35.2,North East Carolina Prep,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,33A000,9,6.8,North East Carolina Prep,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,340311,9,59.6,Atkins Academic & Tech High,Forsyth County Schools,State Of North Carolina
+2017,340330,9,7,Carver High,Forsyth County Schools,State Of North Carolina
+2017,340336,9,18.6,Carter High School,Forsyth County Schools,State Of North Carolina
+2017,340350,6,46.6,Clemmons Middle School,Forsyth County Schools,State Of North Carolina
+2017,340354,6,59.5,The Downtown School,Forsyth County Schools,State Of North Carolina
+2017,340362,9,77.1,Early College of Forsyth Co,Forsyth County Schools,State Of North Carolina
+2017,340364,9,31.9,East Forsyth High,Forsyth County Schools,State Of North Carolina
+2017,340366,6,28,East Forsyth Middle School,Forsyth County Schools,State Of North Carolina
+2017,340372,6,23.9,"Flat Rock Middle, Winston-Salem",Forsyth County Schools,State Of North Carolina
+2017,340382,9,24.1,Robert B Glenn High School,Forsyth County Schools,State Of North Carolina
+2017,340385,6,0,Main Street Academy,Forsyth County Schools,State Of North Carolina
+2017,340385,9,0,Main Street Academy,Forsyth County Schools,State Of North Carolina
+2017,340392,6,74.7,Hanes Magnet School,Forsyth County Schools,State Of North Carolina
+2017,340398,9,0,Homebound/ Hospital Education,Forsyth County Schools,State Of North Carolina
+2017,340406,6,63.5,Thomas Jefferson Middle,Forsyth County Schools,State Of North Carolina
+2017,340420,6,57.3,Kernersville Middle,Forsyth County Schools,State Of North Carolina
+2017,340427,6,0,Kingswood School,Forsyth County Schools,State Of North Carolina
+2017,340427,9,0,Kingswood School,Forsyth County Schools,State Of North Carolina
+2017,340436,6,36.8,Lowrance Middle,Forsyth County Schools,State Of North Carolina
+2017,340442,6,66.6,Meadowlark Middle,Forsyth County Schools,State Of North Carolina
+2017,340452,6,19.6,Mineral Springs Middle,Forsyth County Schools,State Of North Carolina
+2017,340454,9,32.4,Mount Tabor High School,Forsyth County Schools,State Of North Carolina
+2017,340460,9,18.9,North Forsyth High,Forsyth County Schools,State Of North Carolina
+2017,340464,6,25.7,Northwest Middle,Forsyth County Schools,State Of North Carolina
+2017,340480,6,45.9,Paisley IB Magnet School,Forsyth County Schools,State Of North Carolina
+2017,340480,9,74.1,Paisley IB Magnet School,Forsyth County Schools,State Of North Carolina
+2017,340486,9,7.1,Parkland High,Forsyth County Schools,State Of North Carolina
+2017,340488,6,0,J F Kennedy High,Forsyth County Schools,State Of North Carolina
+2017,340488,9,0,J F Kennedy High,Forsyth County Schools,State Of North Carolina
+2017,340492,6,12.5,Philo-Hill Magnet Academy,Forsyth County Schools,State Of North Carolina
+2017,340495,9,52.4,Ronald W Reagan High School,Forsyth County Schools,State Of North Carolina
+2017,340496,9,29.4,R J Reynolds High,Forsyth County Schools,State Of North Carolina
+2017,340516,6,39.2,"Southeast Middle, Kernersville",Forsyth County Schools,State Of North Carolina
+2017,340542,9,18.8,Walkertown High,Forsyth County Schools,State Of North Carolina
+2017,340544,6,30.2,Walkertown Middle,Forsyth County Schools,State Of North Carolina
+2017,340556,9,45.2,West Forsyth High,Forsyth County Schools,State Of North Carolina
+2017,340564,6,25.6,Wiley Magnet Middle,Forsyth County Schools,State Of North Carolina
+2017,340568,6,9.8,Winston-Salem Preparatory Acad,Forsyth County Schools,State Of North Carolina
+2017,340568,9,7,Winston-Salem Preparatory Acad,Forsyth County Schools,State Of North Carolina
+2017,34B000,6,43.8,Quality Education Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34B000,9,33.3,Quality Education Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34D000,6,18.9,Carter G Woodson School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34D000,9,16,Carter G Woodson School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34F000,6,27.8,Forsyth Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34G000,6,66.7,The Arts Based School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34H000,6,69.5,NC Leadership Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,34H000,9,72.5,NC Leadership Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,350308,9,21.2,Bunn High,Franklin County Schools,State Of North Carolina
+2017,350310,6,45.8,Bunn Middle,Franklin County Schools,State Of North Carolina
+2017,350312,6,48.2,Cedar Creek Middle,Franklin County Schools,State Of North Carolina
+2017,350317,9,48.9,Franklin County Early College,Franklin County Schools,State Of North Carolina
+2017,350321,9,30.3,Franklinton High,Franklin County Schools,State Of North Carolina
+2017,350324,6,30.2,Franklinton Middle,Franklin County Schools,State Of North Carolina
+2017,350336,9,31.2,Louisburg High,Franklin County Schools,State Of North Carolina
+2017,350338,6,33.6,Terrell Lane Middle,Franklin County Schools,State Of North Carolina
+2017,35A000,6,38.1,Crosscreek Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,360310,9,25.2,Ashbrook High,Gaston County Schools,State Of North Carolina
+2017,360324,6,60.8,Belmont Middle,Gaston County Schools,State Of North Carolina
+2017,360336,9,13.5,Bessemer City High,Gaston County Schools,State Of North Carolina
+2017,360337,9,73.5,Gaston Early College High School,Gaston County Schools,State Of North Carolina
+2017,360360,9,28.3,Cherryville High,Gaston County Schools,State Of North Carolina
+2017,360372,6,0,Warlick Academy,Gaston County Schools,State Of North Carolina
+2017,360372,9,0,Warlick Academy,Gaston County Schools,State Of North Carolina
+2017,360378,9,40.4,Stuart W Cramer High,Gaston County Schools,State Of North Carolina
+2017,360380,6,54.2,Cramerton Middle,Gaston County Schools,State Of North Carolina
+2017,360390,9,37.7,East Gaston High,Gaston County Schools,State Of North Carolina
+2017,360394,6,0,Webb Street School,Gaston County Schools,State Of North Carolina
+2017,360394,9,0,Webb Street School,Gaston County Schools,State Of North Carolina
+2017,360396,9,29,Forestview High,Gaston County Schools,State Of North Carolina
+2017,360408,6,21.6,W P Grier Middle School,Gaston County Schools,State Of North Carolina
+2017,360418,9,100,Highland Sch of Technology,Gaston County Schools,State Of North Carolina
+2017,360426,6,38.5,Holbrook Middle,Gaston County Schools,State Of North Carolina
+2017,360428,9,10.3,Hunter Huss High,Gaston County Schools,State Of North Carolina
+2017,360431,6,33.6,John Chavis Middle School,Gaston County Schools,State Of North Carolina
+2017,360436,6,24.6,Bessemer City Middle,Gaston County Schools,State Of North Carolina
+2017,360456,6,45.3,Mount Holly Middle,Gaston County Schools,State Of North Carolina
+2017,360470,9,26.4,North Gaston High,Gaston County Schools,State Of North Carolina
+2017,360494,9,46.8,South Point High,Gaston County Schools,State Of North Carolina
+2017,360498,6,31,"Southwest Middle, Gastonia",Gaston County Schools,State Of North Carolina
+2017,360500,6,43.2,Stanley Middle,Gaston County Schools,State Of North Carolina
+2017,360514,6,38.6,W C Friday Middle School,Gaston County Schools,State Of North Carolina
+2017,360526,6,22,York Chester Middle,Gaston County Schools,State Of North Carolina
+2017,36B000,6,66,Piedmont Community Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,36B000,9,31,Piedmont Community Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,36C000,6,70.2,Mountain Island Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,36C000,9,58.7,Mountain Island Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,370308,6,43.1,Central Middle School,Gates County Schools,State Of North Carolina
+2017,370312,9,31.7,Gates County Senior High,Gates County Schools,State Of North Carolina
+2017,380306,6,38.6,Robbinsville Elementary,Graham County Schools,State Of North Carolina
+2017,380308,9,42.1,Robbinsville High,Graham County Schools,State Of North Carolina
+2017,390309,6,36,Butner-Stem Middle,Granville County Schools,State Of North Carolina
+2017,390314,9,0,Center For Innovative Learning,Granville County Schools,State Of North Carolina
+2017,390320,6,54.8,G. C. Hawley Middle,Granville County Schools,State Of North Carolina
+2017,390322,9,16.6,Granville Central High,Granville County Schools,State Of North Carolina
+2017,390323,9,64.3,Granville Early College High,Granville County Schools,State Of North Carolina
+2017,390324,9,12.5,J. F. Webb High,Granville County Schools,State Of North Carolina
+2017,390331,6,41.7,Mary Potter Middle,Granville County Schools,State Of North Carolina
+2017,390334,6,31.4,Northern Granville Middle,Granville County Schools,State Of North Carolina
+2017,390352,9,30.3,South Granville High,Granville County Schools,State Of North Carolina
+2017,390700,9,36.5,JF Webb HS Of Health And Life Sciences,Granville County Schools,State Of North Carolina
+2017,39A000,6,59.2,Falls Lake Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,39A000,9,44.8,Falls Lake Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,39B000,9,46.2,Oxford Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,400308,9,6.4,Greene Central High,Greene County Schools,State Of North Carolina
+2017,400312,6,27.2,Greene County Middle,Greene County Schools,State Of North Carolina
+2017,400315,9,32.6,Greene Early College High,Greene County Schools,State Of North Carolina
+2017,410311,6,38,"Allen Jay Middle, A Preparatory Academy",Guilford County Schools,State Of North Carolina
+2017,410313,6,29.1,Southern Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410316,6,20.8,Allen Middle,Guilford County Schools,State Of North Carolina
+2017,410319,9,13.3,T Wingate Andrews High,Guilford County Schools,State Of North Carolina
+2017,410325,6,31.3,Aycock Middle,Guilford County Schools,State Of North Carolina
+2017,410326,9,44.8,Middle College High at Bennett,Guilford County Schools,State Of North Carolina
+2017,410341,6,100,Brown Summit Middle,Guilford County Schools,State Of North Carolina
+2017,410355,9,14.1,James B Dudley High,Guilford County Schools,State Of North Carolina
+2017,410358,9,27.3,Eastern Guilford High,Guilford County Schools,State Of North Carolina
+2017,410367,6,26.7,Ferndale Middle,Guilford County Schools,State Of North Carolina
+2017,410379,6,0,Gateway Education Center,Guilford County Schools,State Of North Carolina
+2017,410379,9,0,Gateway Education Center,Guilford County Schools,State Of North Carolina
+2017,410391,6,39.9,Penn-Griffin Schools,Guilford County Schools,State Of North Carolina
+2017,410391,9,92.9,Penn-Griffin Schools,Guilford County Schools,State Of North Carolina
+2017,410394,9,51.8,Grimsley High,Guilford County Schools,State Of North Carolina
+2017,410395,9,100,Early College at Guilford,Guilford County Schools,State Of North Carolina
+2017,410396,6,71.2,High School Ahead Academy,Guilford County Schools,State Of North Carolina
+2017,410397,6,33.9,Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410399,9,48,Middle College at GTCC-GSO,Guilford County Schools,State Of North Carolina
+2017,410401,9,62.5,GTCC Middle College High,Guilford County Schools,State Of North Carolina
+2017,410402,6,14.1,Otis L Hairston Sr Middle,Guilford County Schools,State Of North Carolina
+2017,410406,9,22.2,High Point Central High,Guilford County Schools,State Of North Carolina
+2017,410407,9,36.7,Dorothy Kendall Kearns Academy at HPC,Guilford County Schools,State Of North Carolina
+2017,410408,9,48,Middle College GTCC High Point,Guilford County Schools,State Of North Carolina
+2017,410415,6,21.9,Jackson Middle,Guilford County Schools,State Of North Carolina
+2017,410421,6,40.9,Jamestown Middle,Guilford County Schools,State Of North Carolina
+2017,410427,6,29.2,Johnson Street Global Studies,Guilford County Schools,State Of North Carolina
+2017,410437,6,62.2,Kernodle Middle,Guilford County Schools,State Of North Carolina
+2017,410442,6,44,Kiser Middle,Guilford County Schools,State Of North Carolina
+2017,410448,6,48.5,Lincoln Academy,Guilford County Schools,State Of North Carolina
+2017,410457,6,0,Herbin Metz Education Center,Guilford County Schools,State Of North Carolina
+2017,410458,9,0,C Joyner Greene Education Center,Guilford County Schools,State Of North Carolina
+2017,410460,6,32,Eastern Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410463,6,39.3,Mendenhall Middle,Guilford County Schools,State Of North Carolina
+2017,410464,6,0,Haynes Inman Education Center,Guilford County Schools,State Of North Carolina
+2017,410464,9,0,Haynes Inman Education Center,Guilford County Schools,State Of North Carolina
+2017,410483,9,33.3,Middle College High @ NC A&T,Guilford County Schools,State Of North Carolina
+2017,410484,9,14.5,Northeast Guilford High,Guilford County Schools,State Of North Carolina
+2017,410487,6,19.7,Northeast Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410488,6,57,Northern Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410489,9,59.8,Northern Guilford High,Guilford County Schools,State Of North Carolina
+2017,410490,9,59.4,Northwest Guilford High,Guilford County Schools,State Of North Carolina
+2017,410493,6,74.2,Northwest Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410508,9,35.4,Page High,Guilford County Schools,State Of North Carolina
+2017,410529,9,38.2,Lucy Ragsdale High,Guilford County Schools,State Of North Carolina
+2017,410533,6,0,SCALE School,Guilford County Schools,State Of North Carolina
+2017,410533,9,0,SCALE School,Guilford County Schools,State Of North Carolina
+2017,410534,6,0,Pruette SCALE Academy,Guilford County Schools,State Of North Carolina
+2017,410534,9,0,Pruette SCALE Academy,Guilford County Schools,State Of North Carolina
+2017,410544,9,14.2,Ben L. Smith High School,Guilford County Schools,State Of North Carolina
+2017,410545,9,56.8,The Academy at Smith,Guilford County Schools,State Of North Carolina
+2017,410547,9,30.6,Southeast Guilford High,Guilford County Schools,State Of North Carolina
+2017,410550,6,46.8,Southeast Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410556,9,24.7,Southern Guilford High,Guilford County Schools,State Of North Carolina
+2017,410562,9,42.1,Southwest Guilford High,Guilford County Schools,State Of North Carolina
+2017,410565,6,49.9,Southwest Guilford Middle,Guilford County Schools,State Of North Carolina
+2017,410569,9,100,STEM Early College @ NC A&T SU,Guilford County Schools,State Of North Carolina
+2017,410579,9,58,UNCG Early/Middle College,Guilford County Schools,State Of North Carolina
+2017,410589,9,80.6,Philip J Weaver Ed Center,Guilford County Schools,State Of North Carolina
+2017,410592,6,24.3,Welborn Middle,Guilford County Schools,State Of North Carolina
+2017,410595,9,41.1,Western Guilford High,Guilford County Schools,State Of North Carolina
+2017,41B000,6,73.2,Greensboro Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41C000,6,11.9,Guilford Preparatory Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41D000,6,44.4,"Phoenix Academy- Primary, Elem. IB MYP",Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41D000,9,33.3,"Phoenix Academy- Primary, Elem. IB MYP",Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41F000,6,53,Triad Math and Science Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41F000,9,38.2,Triad Math and Science Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41G000,6,65.3,Cornerstone Charter Academy-CFA,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41G000,9,46.9,Cornerstone Charter Academy-CFA,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41H000,6,29,College Prep and Leadership Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41H000,9,25,College Prep and Leadership Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41J000,6,68.8,Summerfield Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,41K000,9,50.8,Piedmont Classical High School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,420324,6,30.3,Enfield Middle,Halifax County Schools,State Of North Carolina
+2017,420346,9,8.8,Northwest Halifax High,Halifax County Schools,State Of North Carolina
+2017,420358,9,6.3,Southeast Halifax High,Halifax County Schools,State Of North Carolina
+2017,420376,6,27.2,William R Davie Middle,Halifax County Schools,State Of North Carolina
+2017,421306,6,41.1,Chaloner Middle School,Roanoke Rapids City Schools,State Of North Carolina
+2017,421316,9,28.4,Roanoke Rapids High School,Roanoke Rapids City Schools,State Of North Carolina
+2017,422310,9,42.5,Roanoke Valley Early College,Weldon City Schools,State Of North Carolina
+2017,422315,9,5.4,Weldon STEM High School Career Academies,Weldon City Schools,State Of North Carolina
+2017,422318,6,17,Weldon Middle,Weldon City Schools,State Of North Carolina
+2017,42A000,6,27.1,KIPP Halifax College Prep,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,430330,6,47.4,Coats-Erwin Middle,Harnett County Schools,State Of North Carolina
+2017,430332,6,25,Dunn Middle,Harnett County Schools,State Of North Carolina
+2017,430345,6,20,STAR Academy,Harnett County Schools,State Of North Carolina
+2017,430345,9,11.8,STAR Academy,Harnett County Schools,State Of North Carolina
+2017,430346,9,28,Harnett Central High,Harnett County Schools,State Of North Carolina
+2017,430347,6,40.2,Harnett Central Middle,Harnett County Schools,State Of North Carolina
+2017,430351,6,36,Highland Middle,Harnett County Schools,State Of North Carolina
+2017,430370,6,34.3,Overhills Middle,Harnett County Schools,State Of North Carolina
+2017,430371,9,25.8,Overhills High,Harnett County Schools,State Of North Carolina
+2017,430378,9,20.2,Triton High,Harnett County Schools,State Of North Carolina
+2017,430384,9,28.4,Western Harnett High,Harnett County Schools,State Of North Carolina
+2017,430386,6,43,Western Harnett Middle,Harnett County Schools,State Of North Carolina
+2017,440318,6,72.2,Bethel Middle,Haywood County Schools,State Of North Carolina
+2017,440320,6,55.1,Canton Middle,Haywood County Schools,State Of North Carolina
+2017,440326,9,0,Central Haywood High,Haywood County Schools,State Of North Carolina
+2017,440346,9,89.7,Haywood Early College,Haywood County Schools,State Of North Carolina
+2017,440378,9,48.4,Pisgah High,Haywood County Schools,State Of North Carolina
+2017,440390,9,36,Tuscola High,Haywood County Schools,State Of North Carolina
+2017,440396,6,62.9,Waynesville Middle,Haywood County Schools,State Of North Carolina
+2017,44A000,6,51.2,Shining Rock Classical Academy CFA,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,450301,6,50,Apple Valley Middle,Henderson County Schools,State Of North Carolina
+2017,450316,9,57,East Henderson High,Henderson County Schools,State Of North Carolina
+2017,450328,6,60,"Flat Rock Middle, East Flat Rock",Henderson County Schools,State Of North Carolina
+2017,450334,9,55.4,Hendersonville High,Henderson County Schools,State Of North Carolina
+2017,450335,6,62.1,Hendersonville Middle,Henderson County Schools,State Of North Carolina
+2017,450341,9,46.6,North Henderson High,Henderson County Schools,State Of North Carolina
+2017,450342,6,72,Rugby Middle,Henderson County Schools,State Of North Carolina
+2017,450343,9,16,Balfour Education Center,Henderson County Schools,State Of North Carolina
+2017,450352,9,57.5,West Henderson High,Henderson County Schools,State Of North Carolina
+2017,450354,9,92.7,Henderson County Early College,Henderson County Schools,State Of North Carolina
+2017,45A000,6,55,The Mountain Community Sch,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,460308,6,20.9,Ahoskie Elementary,Hertford County Schools,State Of North Carolina
+2017,460320,9,0,Hertford County High,Hertford County Schools,State Of North Carolina
+2017,460322,9,28.9,Hertford Co Early College,Hertford County Schools,State Of North Carolina
+2017,460332,6,23,Riverview Elementary,Hertford County Schools,State Of North Carolina
+2017,460340,9,25,CS Brown High,Hertford County Schools,State Of North Carolina
+2017,470312,9,26.3,Hoke County High,Hoke County Schools,State Of North Carolina
+2017,470320,6,34.9,West Hoke Middle,Hoke County Schools,State Of North Carolina
+2017,470332,6,45.8,East Hoke Middle,Hoke County Schools,State Of North Carolina
+2017,470342,6,0,J W Turlington School,Hoke County Schools,State Of North Carolina
+2017,470342,9,0,J W Turlington School,Hoke County Schools,State Of North Carolina
+2017,470442,6,52.8,Sandy Grove Middle,Hoke County Schools,State Of North Carolina
+2017,470443,9,54.7,SandHoke Early College High,Hoke County Schools,State Of North Carolina
+2017,480316,6,61.5,Ocracoke School,Hyde County Schools,State Of North Carolina
+2017,480316,9,30.8,Ocracoke School,Hyde County Schools,State Of North Carolina
+2017,480318,6,40.7,Mattamuskeet Early College High,Hyde County Schools,State Of North Carolina
+2017,480318,9,25.8,Mattamuskeet Early College High,Hyde County Schools,State Of North Carolina
+2017,490308,6,56.9,"Brawley Middle, Mooresville",Iredell-Statesville Schools,State Of North Carolina
+2017,490310,9,0,Career Academy and Technical School,Iredell-Statesville Schools,State Of North Carolina
+2017,490320,9,78.4,Collaborative College for Technology,Iredell-Statesville Schools,State Of North Carolina
+2017,490327,6,25,East Iredell Middle,Iredell-Statesville Schools,State Of North Carolina
+2017,490335,9,59.7,Lake Norman High,Iredell-Statesville Schools,State Of North Carolina
+2017,490338,6,44.8,Lakeshore Middle,Iredell-Statesville Schools,State Of North Carolina
+2017,490342,6,0,Monticello School,Iredell-Statesville Schools,State Of North Carolina
+2017,490342,9,0,Monticello School,Iredell-Statesville Schools,State Of North Carolina
+2017,490344,6,90.2,Mount Mourne School,Iredell-Statesville Schools,State Of North Carolina
+2017,490346,9,31.2,North Iredell High,Iredell-Statesville Schools,State Of North Carolina
+2017,490347,6,89.7,Northview School,Iredell-Statesville Schools,State Of North Carolina
+2017,490349,6,52.7,North Iredell Middle,Iredell-Statesville Schools,State Of North Carolina
+2017,490350,6,0,Pressly School,Iredell-Statesville Schools,State Of North Carolina
+2017,490350,9,0,Pressly School,Iredell-Statesville Schools,State Of North Carolina
+2017,490352,6,17.6,Statesville Middle,Iredell-Statesville Schools,State Of North Carolina
+2017,490354,9,12.7,Statesville High,Iredell-Statesville Schools,State Of North Carolina
+2017,490355,9,70.7,Crossroads Arts Sciences Early College,Iredell-Statesville Schools,State Of North Carolina
+2017,490362,9,50.8,South Iredell High,Iredell-Statesville Schools,State Of North Carolina
+2017,490366,6,32.8,Troutman Middle,Iredell-Statesville Schools,State Of North Carolina
+2017,490380,9,25.3,West Iredell High,Iredell-Statesville Schools,State Of North Carolina
+2017,490384,6,31.7,West Iredell Middle,Iredell-Statesville Schools,State Of North Carolina
+2017,491303,6,56.9,East Mooresville Intermediate,Mooresville City Schools,State Of North Carolina
+2017,491306,6,58.7,Mooresville Intermediate,Mooresville City Schools,State Of North Carolina
+2017,491312,9,45.9,Mooresville High School,Mooresville City Schools,State Of North Carolina
+2017,49B000,6,57.6,American Renaissance School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,49D000,6,9.1,Success Institute Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,49E000,6,72,Pine Lake Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,49E000,9,79.4,Pine Lake Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,49F000,6,63.8,Langtree Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,49F000,9,57.6,Langtree Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,49G000,6,31.6,Iredell Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,500302,9,28.6,Blue Ridge Early College,Jackson County Schools,State Of North Carolina
+2017,500304,6,59,Cullowhee Valley School,Jackson County Schools,State Of North Carolina
+2017,500314,6,40.7,"Fairview Elementary, Sylva",Jackson County Schools,State Of North Carolina
+2017,500316,6,22.2,Blue Ridge School,Jackson County Schools,State Of North Carolina
+2017,500323,9,60,Jackson Co Early College,Jackson County Schools,State Of North Carolina
+2017,500324,6,0,Jackson Co Sch of Alternatives,Jackson County Schools,State Of North Carolina
+2017,500324,9,0,Jackson Co Sch of Alternatives,Jackson County Schools,State Of North Carolina
+2017,500332,6,36.2,Scotts Creek Elementary,Jackson County Schools,State Of North Carolina
+2017,500337,6,31,Smokey Mountain Elementary,Jackson County Schools,State Of North Carolina
+2017,500340,9,36.8,Smoky Mountain High,Jackson County Schools,State Of North Carolina
+2017,50A000,6,50,Summit Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,510310,6,34.2,Benson Middle,Johnston County Schools,State Of North Carolina
+2017,510324,9,36.5,Clayton High,Johnston County Schools,State Of North Carolina
+2017,510325,9,43.1,Johnston County Schools Career Technical,Johnston County Schools,State Of North Carolina
+2017,510327,9,47.5,Cleveland High,Johnston County Schools,State Of North Carolina
+2017,510329,6,58.3,Cleveland Middle,Johnston County Schools,State Of North Carolina
+2017,510333,9,42,Corinth Holders High,Johnston County Schools,State Of North Carolina
+2017,510342,6,34.6,Four Oaks Middle,Johnston County Schools,State Of North Carolina
+2017,510344,6,33.6,North Johnston Middle,Johnston County Schools,State Of North Carolina
+2017,510359,6,48.3,McGee's Crossroads Middle,Johnston County Schools,State Of North Carolina
+2017,510360,6,53.5,Meadow School,Johnston County Schools,State Of North Carolina
+2017,510364,6,47.3,Archer Lodge Middle,Johnston County Schools,State Of North Carolina
+2017,510367,9,69.4,Johnston Co Early College Academy,Johnston County Schools,State Of North Carolina
+2017,510368,9,27,North Johnston High,Johnston County Schools,State Of North Carolina
+2017,510376,6,45.7,Princeton High,Johnston County Schools,State Of North Carolina
+2017,510376,9,50,Princeton High,Johnston County Schools,State Of North Carolina
+2017,510379,6,55.5,Riverwood Middle,Johnston County Schools,State Of North Carolina
+2017,510380,9,0,South Campus Community High,Johnston County Schools,State Of North Carolina
+2017,510381,6,0,South Campus Community Middle,Johnston County Schools,State Of North Carolina
+2017,510390,6,25,Selma Middle School,Johnston County Schools,State Of North Carolina
+2017,510397,6,31.8,Smithfield Middle,Johnston County Schools,State Of North Carolina
+2017,510399,9,29.1,Smithfield-Selma High,Johnston County Schools,State Of North Carolina
+2017,510402,9,31.2,South Johnston High,Johnston County Schools,State Of North Carolina
+2017,510406,9,44.2,West Johnston High,Johnston County Schools,State Of North Carolina
+2017,510412,6,46.5,Clayton Middle,Johnston County Schools,State Of North Carolina
+2017,51A000,6,54.2,Neuse Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,51A000,9,43.1,Neuse Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,520304,6,22.2,Pollocksville Elementary,Jones County Schools,State Of North Carolina
+2017,520308,6,16.7,Comfort Elementary,Jones County Schools,State Of North Carolina
+2017,520320,9,40.3,Jones Senior High,Jones County Schools,State Of North Carolina
+2017,520328,6,60,Maysville Elementary,Jones County Schools,State Of North Carolina
+2017,520336,6,54.1,Trenton Elementary,Jones County Schools,State Of North Carolina
+2017,530306,6,0,Bragg Street Academy,Lee County Schools,State Of North Carolina
+2017,530306,9,9.1,Bragg Street Academy,Lee County Schools,State Of North Carolina
+2017,530314,6,47.5,East Lee Middle,Lee County Schools,State Of North Carolina
+2017,530316,6,0,Floyd L Knight Children Center,Lee County Schools,State Of North Carolina
+2017,530316,9,0,Floyd L Knight Children Center,Lee County Schools,State Of North Carolina
+2017,530335,9,75,Lee Early College,Lee County Schools,State Of North Carolina
+2017,530336,9,32.2,Lee County High,Lee County Schools,State Of North Carolina
+2017,530341,6,41.1,SanLee Middle School,Lee County Schools,State Of North Carolina
+2017,530343,9,32.8,Southern Lee High School,Lee County Schools,State Of North Carolina
+2017,530356,6,42.9,West Lee Middle,Lee County Schools,State Of North Carolina
+2017,540308,6,31.3,Contentnea-Savannah School,Lenoir County Public Schools,State Of North Carolina
+2017,540312,6,44.3,E B Frink Middle,Lenoir County Public Schools,State Of North Carolina
+2017,540315,9,7.7,Kinston High,Lenoir County Public Schools,State Of North Carolina
+2017,540317,9,52.4,Lenoir County Early College High,Lenoir County Public Schools,State Of North Carolina
+2017,540318,6,30,Lenoir County Learning Academy,Lenoir County Public Schools,State Of North Carolina
+2017,540318,9,7.1,Lenoir County Learning Academy,Lenoir County Public Schools,State Of North Carolina
+2017,540324,9,25,North Lenoir High,Lenoir County Public Schools,State Of North Carolina
+2017,540330,6,18.8,Rochelle Middle,Lenoir County Public Schools,State Of North Carolina
+2017,540336,9,26.1,South Lenoir High,Lenoir County Public Schools,State Of North Carolina
+2017,540344,6,40.7,Woodington Middle,Lenoir County Public Schools,State Of North Carolina
+2017,54A000,6,26.7,Children's Village Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,550308,6,0,Asbury Academy,Lincoln County Schools,State Of North Carolina
+2017,550308,9,0,Asbury Academy,Lincoln County Schools,State Of North Carolina
+2017,550320,9,49.1,East Lincoln High,Lincoln County Schools,State Of North Carolina
+2017,550322,6,67.3,East Lincoln Middle,Lincoln County Schools,State Of North Carolina
+2017,550332,9,42,Lincolnton High,Lincoln County Schools,State Of North Carolina
+2017,550334,6,40.5,Lincolnton Middle,Lincoln County Schools,State Of North Carolina
+2017,550344,9,56.3,North Lincoln High,Lincoln County Schools,State Of North Carolina
+2017,550350,6,62.9,North Lincoln Middle,Lincoln County Schools,State Of North Carolina
+2017,550368,9,38.2,West Lincoln High,Lincoln County Schools,State Of North Carolina
+2017,550372,6,52.5,West Lincoln Middle,Lincoln County Schools,State Of North Carolina
+2017,55A000,6,69.6,Lincoln Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,55A000,9,59.9,Lincoln Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,560320,9,36.9,Franklin High,Macon County Schools,State Of North Carolina
+2017,560324,6,55,Highlands School,Macon County Schools,State Of North Carolina
+2017,560324,9,55.2,Highlands School,Macon County Schools,State Of North Carolina
+2017,560329,9,48.4,Macon Early College High School,Macon County Schools,State Of North Carolina
+2017,560331,6,40.9,Mountain View Intermediate,Macon County Schools,State Of North Carolina
+2017,560332,6,0,Nantahala School,Macon County Schools,State Of North Carolina
+2017,560332,9,0,Nantahala School,Macon County Schools,State Of North Carolina
+2017,560350,9,5,"Union Academy, Franklin",Macon County Schools,State Of North Carolina
+2017,570317,9,51,Madison Early College High,Madison County Schools,State Of North Carolina
+2017,570318,9,33.1,Madison High,Madison County Schools,State Of North Carolina
+2017,570319,6,54.8,Madison Middle,Madison County Schools,State Of North Carolina
+2017,580344,9,30.4,South Creek High,Martin County Schools,State Of North Carolina
+2017,580350,6,19.7,South Creek Middle,Martin County Schools,State Of North Carolina
+2017,580368,9,32.8,"Riverside High, Williamston",Martin County Schools,State Of North Carolina
+2017,580372,6,23.5,Riverside Middle,Martin County Schools,State Of North Carolina
+2017,58B000,6,44.4,Bear Grass Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,58B000,9,40.7,Bear Grass Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,590310,6,39.2,East McDowell Middle,McDowell County Schools,State Of North Carolina
+2017,590328,9,59.4,McDowell Early College,McDowell County Schools,State Of North Carolina
+2017,590330,9,25.5,McDowell High,McDowell County Schools,State Of North Carolina
+2017,590356,6,34.4,West McDowell Middle,McDowell County Schools,State Of North Carolina
+2017,590393,6,56.7,McDowell,McDowell County Schools,State Of North Carolina
+2017,590393,9,0,McDowell,McDowell County Schools,State Of North Carolina
+2017,600301,6,33.2,Albemarle Road Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600302,9,80.5,Ardrey Kell High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600305,6,45.5,J M Alexander Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600311,6,17.2,Ashley Park PreK-8 School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600312,9,68,William Amos Hough High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600313,6,72,Bailey Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600317,6,26.7,Whitewater Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600319,6,27.2,Berryhill School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600333,6,60.6,Carmel Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600336,6,75,Chantilly Montessori,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600341,6,21.5,Cochrane Collegiate Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600341,9,18.7,Cochrane Collegiate Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600344,6,65.8,Collinswood Language Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600345,6,73.1,Community House Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600351,6,35.9,Coulwood STEM Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600353,6,74.5,Crestdale Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600361,9,48.9,Butler High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600364,6,28.2,Military and Global Leadership Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600364,9,19.7,Military and Global Leadership Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600374,6,12.7,Druid Hills Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600377,9,42,East Mecklenburg High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600381,6,17.4,Eastway Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600386,9,59.1,Hawthorne High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600394,6,60.1,Francis Bradley Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600397,9,12,Garinger High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600399,6,63.4,Alexander Graham Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600405,9,12.1,Harding University High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600413,6,66.7,Highland Mill Montessori,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600415,9,43.7,Hopewell High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600426,9,30.4,Independence High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600428,6,22.6,James Martin Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600429,6,55.8,Morehead STEM Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600431,6,79.8,Jay M Robinson Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600434,6,47.9,Kennedy Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600439,6,10.5,"Turning Point Academy, Charlotte",Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600439,9,12.8,"Turning Point Academy, Charlotte",Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600445,9,34.2,Mallard Creek High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600448,6,19.9,Martin Luther King Jr Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600450,6,37.6,McClintock Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600454,6,0,Metro School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600454,9,0,Metro School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600455,6,61.8,Mint Hill Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600457,9,22.1,Rocky River High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600461,6,0,Lincoln Heights Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600461,9,0,Lincoln Heights Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600462,6,30.9,Mountain Island Lake Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600466,9,64.8,Myers Park High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600479,6,38.3,Northeast Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600480,9,32.5,North Mecklenburg High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600481,6,34.7,Northridge Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600482,6,54.9,Northwest School of the Arts,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600482,9,68.8,Northwest School of the Arts,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600488,6,59,Oaklawn Language Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600489,6,9.9,Bruns Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600492,6,60.6,Park Road Montessori,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600496,9,59.3,Phillip O Berry Academy of Technology,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600497,6,82.9,Piedmont IB Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600498,9,11.1,"Performance Learning Center, Charlotte",Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600499,9,46.7,eLearning Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600508,9,82.5,Providence High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600509,6,39.3,Quail Hollow Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600513,6,83.7,Randolph Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600514,6,24.9,Ranson Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600517,6,17.8,Reid Park Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600518,6,41.3,Ridge Road Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600520,6,16.1,Sedgefield Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600520,9,52.2,Sedgefield Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600532,6,75.5,Waddell Language Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600535,9,48.2,South Mecklenburg High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600537,6,78.7,South Charlotte Middle,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600538,6,45.6,Southwest Middle School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600553,6,8.5,Thomasboro Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600567,9,65.1,Charlotte Engineering Early College-UNCC,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600574,6,16.7,Walter G Byers School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600576,9,10.5,West Charlotte High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600577,6,15.5,Westerly Hills Academy,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600579,9,13.9,West Mecklenburg High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600592,9,14.2,Vance High,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600693,9,29.1,Olympic High - Renaissance School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600694,9,48.2,Olympic High-Math Eng Tech Science,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600695,9,11.1,Olympic TEAM High School,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600696,9,17.6,Olympic High-Leadership and Development,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,600697,9,43.5,Olympic High - Biotech Health Pub Admin,Charlotte-Mecklenburg Schools,State Of North Carolina
+2017,60B000,6,44.9,Sugar Creek Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60B000,9,29.9,Sugar Creek Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60D000,6,70.1,Lake Norman Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60D000,9,71.9,Lake Norman Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60F000,6,100,Metrolina Reg Scholars Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60G000,6,59.3,Queen's Grant Community School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60G000,9,34.4,Queen's Grant Community School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60I000,6,67.7,Community School of Davidson,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60I000,9,71.3,Community School of Davidson,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60J000,6,60.9,Socrates Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60K000,6,45.9,Charlotte Secondary,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60K000,9,14.6,Charlotte Secondary,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60L000,6,17.1,KIPP Charlotte,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60M000,6,57.9,Corvian Community School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60P000,6,0,Charlotte Choice Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60Q000,6,14.8,Invest Collegiate Transform,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60S000,6,47.8,Bradford Preparatory School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60S000,9,50.6,Bradford Preparatory School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60U000,9,0,Commonwealth High,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60V000,6,11.1,Charlotte Learning Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,60V000,9,6.1,Charlotte Learning Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,610302,6,45.6,Bowman Middle,Mitchell County Schools,State Of North Carolina
+2017,610326,6,50.7,Harris Middle,Mitchell County Schools,State Of North Carolina
+2017,610332,9,50,Mayland Early College,Mitchell County Schools,State Of North Carolina
+2017,610334,9,42.4,Mitchell High,Mitchell County Schools,State Of North Carolina
+2017,61J000,6,42.9,Thunderbird Preparatory Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,61L000,9,0,Stewart Creek High,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,61N000,6,52.5,Queen City STEM School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,61Q000,6,50,Mallard Creek STEM Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,61R000,6,44.4,Matthews Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,620310,6,0,Montgomery Learning Academy,Montgomery County Schools,State Of North Carolina
+2017,620310,9,0,Montgomery Learning Academy,Montgomery County Schools,State Of North Carolina
+2017,620314,6,31.7,East Middle,Montgomery County Schools,State Of North Carolina
+2017,620316,9,29.3,East Montgomery High,Montgomery County Schools,State Of North Carolina
+2017,620339,6,39.1,West Middle,Montgomery County Schools,State Of North Carolina
+2017,620340,9,22,West Montgomery High,Montgomery County Schools,State Of North Carolina
+2017,630317,6,53,Crain's Creek Middle,Moore County Schools,State Of North Carolina
+2017,630320,6,26.4,Elise Middle,Moore County Schools,State Of North Carolina
+2017,630328,6,47.1,Highfalls Elementary,Moore County Schools,State Of North Carolina
+2017,630330,9,9.1,The Community Learning Center @ Pinckney,Moore County Schools,State Of North Carolina
+2017,630331,6,53.2,New Century Middle,Moore County Schools,State Of North Carolina
+2017,630332,9,32.2,North Moore High,Moore County Schools,State Of North Carolina
+2017,630336,9,42.2,Pinecrest High,Moore County Schools,State Of North Carolina
+2017,630350,6,40,"Southern Middle, Aberdeen",Moore County Schools,State Of North Carolina
+2017,630360,9,46.2,Union Pines High,Moore County Schools,State Of North Carolina
+2017,630374,6,68.8,West Pine Middle,Moore County Schools,State Of North Carolina
+2017,630376,6,48.4,Westmoore Elementary,Moore County Schools,State Of North Carolina
+2017,63B000,6,55.3,STARS Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,63B000,9,43.8,STARS Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,640320,6,35.3,Nash Central Middle,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640329,6,32.7,G R Edwards Middle,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640334,6,16.5,J W Parker Middle,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640335,6,16.8,Rocky Mount Middle,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640340,6,0,Tar River Academy,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640340,9,0,Tar River Academy,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640346,9,20.9,Nash Central High,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640347,9,34,NRM Early College High School,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640350,9,18.1,Northern Nash High,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640358,6,40.2,Red Oak Middle,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640361,9,20.3,Rocky Mount High,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640362,6,36.4,Southern Nash Middle,Nash-Rocky Mount Schools,State Of North Carolina
+2017,640364,9,25.4,Southern Nash High,Nash-Rocky Mount Schools,State Of North Carolina
+2017,64A000,6,17.5,Rocky Mount Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,64A000,9,25.9,Rocky Mount Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,650310,6,59.1,Charles P Murray Middle,New Hanover County Schools,State Of North Carolina
+2017,650325,6,51.3,Emma B Trask Middle,New Hanover County Schools,State Of North Carolina
+2017,650326,9,42.8,Emsley A Laney High,New Hanover County Schools,State Of North Carolina
+2017,650327,9,45.4,Eugene Ashley High,New Hanover County Schools,State Of North Carolina
+2017,650332,6,51.9,The International School at Gregory,New Hanover County Schools,State Of North Carolina
+2017,650340,9,93.6,Isaac M Bear Early College High School,New Hanover County Schools,State Of North Carolina
+2017,650342,9,53.7,John T Hoggard High,New Hanover County Schools,State Of North Carolina
+2017,650343,6,39.1,Holly Shelter Middle,New Hanover County Schools,State Of North Carolina
+2017,650345,6,0,Lake Forest Academy,New Hanover County Schools,State Of North Carolina
+2017,650350,6,70.5,M C S Noble Middle,New Hanover County Schools,State Of North Carolina
+2017,650351,6,59.1,Myrtle Grove Middle,New Hanover County Schools,State Of North Carolina
+2017,650352,9,28.4,New Hanover High,New Hanover County Schools,State Of North Carolina
+2017,650354,6,0,J. C. Roe Center,New Hanover County Schools,State Of North Carolina
+2017,650354,9,5.9,J. C. Roe Center,New Hanover County Schools,State Of North Carolina
+2017,650355,9,22.7,Career Readiness Academy at Mosley PLC,New Hanover County Schools,State Of North Carolina
+2017,650364,6,70.4,Roland-Grise Middle,New Hanover County Schools,State Of North Carolina
+2017,650392,6,23.1,Williston Middle,New Hanover County Schools,State Of North Carolina
+2017,650394,9,68.3,Wilmington Early College High,New Hanover County Schools,State Of North Carolina
+2017,650409,6,14.3,D.C. Virgo Preparatory Academy,New Hanover County Schools,State Of North Carolina
+2017,65A000,6,57.4,Cape Fear Center for Inquiry,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,65B000,6,21.4,Wilmington Preparatory Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,65D000,6,52.2,Island Montessori Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,65G000,6,42.5,Girls Leadership Academy of Wilmington,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,660308,6,19.8,Conway Middle,Northampton County Schools,State Of North Carolina
+2017,660325,6,22.6,Gaston Middle,Northampton County Schools,State Of North Carolina
+2017,660336,9,0,Northampton County High School,Northampton County Schools,State Of North Carolina
+2017,660400,9,24,Northampton Early College,Northampton County Schools,State Of North Carolina
+2017,66A000,6,39.1,Gaston College Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,66A000,9,62.1,Gaston College Preparatory,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,670318,6,44.8,Dixon Middle,Onslow County Schools,State Of North Carolina
+2017,670320,9,25.1,Dixon High,Onslow County Schools,State Of North Carolina
+2017,670322,6,39.6,Hunters Creek Middle,Onslow County Schools,State Of North Carolina
+2017,670324,9,29.2,Jacksonville High,Onslow County Schools,State Of North Carolina
+2017,670325,6,34.2,Jacksonville Commons Middle,Onslow County Schools,State Of North Carolina
+2017,670331,6,53.7,New Bridge Middle,Onslow County Schools,State Of North Carolina
+2017,670333,9,30.8,"Northside High, Jacksonville",Onslow County Schools,State Of North Carolina
+2017,670336,6,34.9,Northwoods Park Middle,Onslow County Schools,State Of North Carolina
+2017,670340,9,38.2,Richlands High,Onslow County Schools,State Of North Carolina
+2017,670344,9,26.6,Southwest High,Onslow County Schools,State Of North Carolina
+2017,670345,6,32.5,"Southwest Middle, Jacksonville",Onslow County Schools,State Of North Carolina
+2017,670351,6,50.8,Swansboro Middle,Onslow County Schools,State Of North Carolina
+2017,670352,9,28.7,Swansboro High,Onslow County Schools,State Of North Carolina
+2017,670356,6,31.6,Trexler Middle,Onslow County Schools,State Of North Carolina
+2017,670364,9,30.6,White Oak High,Onslow County Schools,State Of North Carolina
+2017,67B000,6,0,Z.E.C.A. School of Arts and Technology,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,680304,6,47.1,A L Stanback Middle,Orange County Schools,State Of North Carolina
+2017,680310,9,51.4,Cedar Ridge High,Orange County Schools,State Of North Carolina
+2017,680316,6,60.7,Charles W Stanford Middle,Orange County Schools,State Of North Carolina
+2017,680327,6,48,Gravelly Hill Middle,Orange County Schools,State Of North Carolina
+2017,680332,9,43,Orange High,Orange County Schools,State Of North Carolina
+2017,680335,9,0,Partnership Academy,Orange County Schools,State Of North Carolina
+2017,681305,9,64.2,Carrboro High,Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,681308,9,64.4,Chapel Hill High,Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,681309,6,60.5,McDougle Middle,Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,681314,9,63.5,East Chapel Hill High,Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,681322,6,67.7,Culbreth Middle,Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,681324,6,66.3,"Phillips Middle, Chapel Hill",Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,681336,6,71.8,Smith Middle,Chapel Hill-Carrboro Schools,State Of North Carolina
+2017,68A000,6,70.6,Eno River Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,68A000,9,46.9,Eno River Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,68C000,6,58.3,The Expedition School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,690316,6,39.8,Pamlico County Middle,Pamlico County Schools,State Of North Carolina
+2017,690320,9,51,Pamlico County High,Pamlico County Schools,State Of North Carolina
+2017,69A000,6,50,Arapahoe Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,69A000,9,38.5,Arapahoe Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,700308,6,41.6,Elizabeth City Middle,Pasquotank County Schools,State Of North Carolina
+2017,700310,9,0,H L Trigg Community,Pasquotank County Schools,State Of North Carolina
+2017,700317,9,25.9,Northeastern High,Pasquotank County Schools,State Of North Carolina
+2017,700319,9,21.6,Pasquotank County High,Pasquotank County Schools,State Of North Carolina
+2017,700322,6,31.3,River Road Middle,Pasquotank County Schools,State Of North Carolina
+2017,70A000,9,42.6,Northeast Academy of Aerospace & AdvTech,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,710316,6,43.5,Burgaw Middle,Pender County Schools,State Of North Carolina
+2017,710320,6,41.3,Cape Fear Middle,Pender County Schools,State Of North Carolina
+2017,710321,9,24.7,Heide Trask High,Pender County Schools,State Of North Carolina
+2017,710326,9,25.8,Pender High,Pender County Schools,State Of North Carolina
+2017,710327,9,91.1,Pender Early College High,Pender County Schools,State Of North Carolina
+2017,710328,6,52.7,Penderlea Elementary,Pender County Schools,State Of North Carolina
+2017,710342,9,58.1,Topsail High,Pender County Schools,State Of North Carolina
+2017,710346,6,62.9,Topsail Middle,Pender County Schools,State Of North Carolina
+2017,710348,6,35.5,West Pender Middle,Pender County Schools,State Of North Carolina
+2017,720316,9,33.3,Perquimans County High,Perquimans County Schools,State Of North Carolina
+2017,720320,6,48.6,Perquimans County Middle,Perquimans County Schools,State Of North Carolina
+2017,730334,6,0,"North Elementary, Roxboro",Person County Schools,State Of North Carolina
+2017,730344,6,38.5,Northern Middle,Person County Schools,State Of North Carolina
+2017,730350,9,20.5,Person Early College Innovation & Ldrshp,Person County Schools,State Of North Carolina
+2017,730352,9,24.2,Person High,Person County Schools,State Of North Carolina
+2017,730360,6,52.3,"Southern Middle, Roxboro",Person County Schools,State Of North Carolina
+2017,73B000,6,78.8,Roxboro Community School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,73B000,9,60.6,Roxboro Community School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,740302,6,49.2,A G Cox Middle,Pitt County Schools,State Of North Carolina
+2017,740308,6,39.3,Ayden Middle,Pitt County Schools,State Of North Carolina
+2017,740309,9,26,Ayden-Grifton High,Pitt County Schools,State Of North Carolina
+2017,740320,6,38.5,"Bethel Elementary, Bethel",Pitt County Schools,State Of North Carolina
+2017,740324,6,20.1,C M Eppes Middle,Pitt County Schools,State Of North Carolina
+2017,740332,6,55.3,Chicod,Pitt County Schools,State Of North Carolina
+2017,740333,9,53.8,D H Conley High,Pitt County Schools,State Of North Carolina
+2017,740337,6,36.6,E B Aycock Middle,Pitt County Schools,State Of North Carolina
+2017,740340,6,33.2,Farmville Middle,Pitt County Schools,State Of North Carolina
+2017,740344,9,34.4,Farmville Central High,Pitt County Schools,State Of North Carolina
+2017,740352,6,33.9,Grifton,Pitt County Schools,State Of North Carolina
+2017,740358,6,30,G R Whitfield,Pitt County Schools,State Of North Carolina
+2017,740362,6,61.7,Hope Middle,Pitt County Schools,State Of North Carolina
+2017,740366,9,26.1,Junius H Rose High,Pitt County Schools,State Of North Carolina
+2017,740374,9,19.9,North Pitt High,Pitt County Schools,State Of North Carolina
+2017,740376,6,34.5,Pactolus,Pitt County Schools,State Of North Carolina
+2017,740378,6,0,Vidant Health/ Sadie Saulter,Pitt County Schools,State Of North Carolina
+2017,740388,9,31.4,South Central High,Pitt County Schools,State Of North Carolina
+2017,740396,6,52.2,Stokes,Pitt County Schools,State Of North Carolina
+2017,740402,6,25.2,Wellcome Middle,Pitt County Schools,State Of North Carolina
+2017,740500,9,64.8,Early College High School,Pitt County Schools,State Of North Carolina
+2017,74B000,6,29.4,Ignite Innovation Academy - Pitt,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,74C000,6,47.4,Winterville Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,750317,9,66.7,Polk County Early College,Polk County Schools,State Of North Carolina
+2017,750318,9,51,Polk County High School,Polk County Schools,State Of North Carolina
+2017,750319,6,66.1,Polk County Middle School,Polk County Schools,State Of North Carolina
+2017,760308,6,48.8,Braxton Craven Middle,Randolph County Schools,State Of North Carolina
+2017,760318,9,11.4,Eastern Randolph High,Randolph County Schools,State Of North Carolina
+2017,760338,6,38.6,Northeastern Randolph Middle,Randolph County Schools,State Of North Carolina
+2017,760339,9,26,Providence Grove High,Randolph County Schools,State Of North Carolina
+2017,760348,9,28.6,Randleman High,Randolph County Schools,State Of North Carolina
+2017,760352,6,35.3,Randleman Middle,Randolph County Schools,State Of North Carolina
+2017,760354,9,54.6,Randolph Early College High,Randolph County Schools,State Of North Carolina
+2017,760357,6,35,Southeastern Randolph Middle,Randolph County Schools,State Of North Carolina
+2017,760358,9,28.6,Southwestern Randolph High,Randolph County Schools,State Of North Carolina
+2017,760360,6,38,Southwestern Randolph Middle,Randolph County Schools,State Of North Carolina
+2017,760380,9,32.6,Trinity High,Randolph County Schools,State Of North Carolina
+2017,760382,6,46.5,Uwharrie Middle,Randolph County Schools,State Of North Carolina
+2017,760388,9,33.9,Wheatmore High,Randolph County Schools,State Of North Carolina
+2017,761304,9,37.8,Asheboro High,Asheboro City Schools,State Of North Carolina
+2017,761308,6,40.2,South Asheboro Middle,Asheboro City Schools,State Of North Carolina
+2017,761336,6,26.7,North Asheboro Middle,Asheboro City Schools,State Of North Carolina
+2017,76A000,6,66.7,Uwharrie Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,76A000,9,24.6,Uwharrie Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,770312,9,0,Cordova School,Richmond County Schools,State Of North Carolina
+2017,770316,6,50.7,Ellerbe Middle,Richmond County Schools,State Of North Carolina
+2017,770328,6,35.7,Hamlet Middle,Richmond County Schools,State Of North Carolina
+2017,770342,9,10,Ashley Chapel Educational Center,Richmond County Schools,State Of North Carolina
+2017,770349,9,76.1,Richmond Early College High,Richmond County Schools,State Of North Carolina
+2017,770351,9,28.2,Richmond 9th Grade Academy,Richmond County Schools,State Of North Carolina
+2017,770360,6,47.8,Rockingham Middle,Richmond County Schools,State Of North Carolina
+2017,770364,6,43.2,Rohanen Middle,Richmond County Schools,State Of North Carolina
+2017,780320,6,20.4,Deep Branch Elementary,Robeson County Schools,State Of North Carolina
+2017,780324,6,15.1,Fairgrove Middle,Robeson County Schools,State Of North Carolina
+2017,780325,9,15.9,Fairmont High,Robeson County Schools,State Of North Carolina
+2017,780326,6,12.6,Fairmont Middle,Robeson County Schools,State Of North Carolina
+2017,780330,6,24.2,L Gilbert Carroll Middle,Robeson County Schools,State Of North Carolina
+2017,780336,6,31.7,Littlefield Middle,Robeson County Schools,State Of North Carolina
+2017,780342,9,20.5,Lumberton Senior High,Robeson County Schools,State Of North Carolina
+2017,780344,6,24.1,Magnolia Elementary,Robeson County Schools,State Of North Carolina
+2017,780352,6,22.1,Orrum Middle,Robeson County Schools,State Of North Carolina
+2017,780356,6,20,Oxendine Elementary,Robeson County Schools,State Of North Carolina
+2017,780360,6,35.7,Parkton Elementary,Robeson County Schools,State Of North Carolina
+2017,780368,6,26.5,Pembroke Middle,Robeson County Schools,State Of North Carolina
+2017,780376,6,26.2,"Piney Grove Elementary, Lumberton",Robeson County Schools,State Of North Carolina
+2017,780384,6,25,"Prospect Elementary, Maxton",Robeson County Schools,State Of North Carolina
+2017,780385,9,76.5,PSRC Early College at RCC,Robeson County Schools,State Of North Carolina
+2017,780391,9,21,Red Springs High,Robeson County Schools,State Of North Carolina
+2017,780393,6,15.7,Red Springs Middle,Robeson County Schools,State Of North Carolina
+2017,780396,6,5.1,Rowland Middle,Robeson County Schools,State Of North Carolina
+2017,780401,9,15.5,Saint Pauls High,Robeson County Schools,State Of North Carolina
+2017,780402,9,13.9,South Robeson High,Robeson County Schools,State Of North Carolina
+2017,780403,6,15.7,Saint Pauls Middle,Robeson County Schools,State Of North Carolina
+2017,780410,6,0,Townsend Middle,Robeson County Schools,State Of North Carolina
+2017,780412,6,23.1,Union Chapel Elementary,Robeson County Schools,State Of North Carolina
+2017,780416,6,34.6,"Union Elementary, Rowland",Robeson County Schools,State Of North Carolina
+2017,780420,9,15,Purnell Swett High,Robeson County Schools,State Of North Carolina
+2017,78A000,6,21.1,CIS Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,78B000,6,68,Southeastern Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,790314,9,24.9,Dalton McMichael High,Rockingham County Schools,State Of North Carolina
+2017,790330,6,33.3,J E Holmes Middle,Rockingham County Schools,State Of North Carolina
+2017,790354,9,20.6,John M Morehead High,Rockingham County Schools,State Of North Carolina
+2017,790366,9,28.1,Reidsville High,Rockingham County Schools,State Of North Carolina
+2017,790374,6,28.1,Reidsville Middle,Rockingham County Schools,State Of North Carolina
+2017,790378,9,41.8,Rockingham County High,Rockingham County Schools,State Of North Carolina
+2017,790379,9,70.5,Rockingham Co Early College High,Rockingham County Schools,State Of North Carolina
+2017,790380,6,47.6,Rockingham County Middle,Rockingham County Schools,State Of North Carolina
+2017,790392,9,10,The SCORE Center,Rockingham County Schools,State Of North Carolina
+2017,790394,6,41.5,Western Rockingham Middle,Rockingham County Schools,State Of North Carolina
+2017,79A000,6,53.3,Bethany Community Middle,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,800308,6,0,Henderson High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800308,9,0,Henderson High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800314,6,47.5,"Erwin Middle, Salisbury",Rowan-Salisbury Schools,State Of North Carolina
+2017,800320,6,35.8,China Grove Middle,Rowan-Salisbury Schools,State Of North Carolina
+2017,800328,6,36.7,Corriher Lipe Middle,Rowan-Salisbury Schools,State Of North Carolina
+2017,800340,9,18.6,East Rowan High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800361,9,31.7,Carson High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800363,6,22.7,Knox Middle,Rowan-Salisbury Schools,State Of North Carolina
+2017,800376,9,21.9,North Rowan High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800377,6,18.3,North Rowan Middle,Rowan-Salisbury Schools,State Of North Carolina
+2017,800394,9,44.3,Rowan Co Early College,Rowan-Salisbury Schools,State Of North Carolina
+2017,800396,9,17,Salisbury High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800398,6,37.3,"Southeast Middle, Salisbury",Rowan-Salisbury Schools,State Of North Carolina
+2017,800400,9,18.5,South Rowan High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800408,9,21.9,West Rowan High,Rowan-Salisbury Schools,State Of North Carolina
+2017,800410,6,41.1,West Rowan Middle,Rowan-Salisbury Schools,State Of North Carolina
+2017,810324,9,27.9,Chase High School,Rutherford County Schools,State Of North Carolina
+2017,810326,6,51.7,Chase Middle School,Rutherford County Schools,State Of North Carolina
+2017,810340,9,23.8,East Rutherford High School,Rutherford County Schools,State Of North Carolina
+2017,810342,6,50.3,East Rutherford Middle School,Rutherford County Schools,State Of North Carolina
+2017,810378,6,50.5,R-S Middle School,Rutherford County Schools,State Of North Carolina
+2017,810384,9,37.2,R-S Central High School,Rutherford County Schools,State Of North Carolina
+2017,810385,9,79.2,Rutherford Early College High School,Rutherford County Schools,State Of North Carolina
+2017,810386,6,0,Rutherford Opportunity Center,Rutherford County Schools,State Of North Carolina
+2017,810386,9,0,Rutherford Opportunity Center,Rutherford County Schools,State Of North Carolina
+2017,81A000,6,80.2,Thomas Jefferson Class Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,81A000,9,60,Thomas Jefferson Class Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,81B000,6,60,Lake Lure Classical Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,81B000,9,42.9,Lake Lure Classical Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,820324,9,76.7,Sampson Early College High,Sampson County Schools,State Of North Carolina
+2017,820347,6,62.8,Hobbton Middle,Sampson County Schools,State Of North Carolina
+2017,820348,9,32.5,Hobbton High,Sampson County Schools,State Of North Carolina
+2017,820349,9,17.2,Lakewood High,Sampson County Schools,State Of North Carolina
+2017,820352,9,46.4,Midway High,Sampson County Schools,State Of North Carolina
+2017,820354,6,65.2,Midway Middle,Sampson County Schools,State Of North Carolina
+2017,820370,6,38.3,Union Middle,Sampson County Schools,State Of North Carolina
+2017,820372,6,39.2,Roseboro-Salemburg Middle,Sampson County Schools,State Of North Carolina
+2017,820388,9,31.3,Union High,Sampson County Schools,State Of North Carolina
+2017,821308,9,41.2,Clinton High,Clinton City Schools,State Of North Carolina
+2017,821320,6,37.3,Sampson Middle,Clinton City Schools,State Of North Carolina
+2017,830304,6,56.5,Carver Middle,Scotland County Schools,State Of North Carolina
+2017,830316,6,0,Shaw Academy,Scotland County Schools,State Of North Carolina
+2017,830316,9,0,Shaw Academy,Scotland County Schools,State Of North Carolina
+2017,830343,9,30.5,Scotland High School,Scotland County Schools,State Of North Carolina
+2017,830348,9,73.5,Scotland Early College High,Scotland County Schools,State Of North Carolina
+2017,830349,6,42.8,Spring Hill Middle,Scotland County Schools,State Of North Carolina
+2017,840302,9,24.2,Albemarle High,Stanly County Schools,State Of North Carolina
+2017,840303,6,31.7,Albemarle Middle,Stanly County Schools,State Of North Carolina
+2017,840328,6,39.3,North Stanly Middle,Stanly County Schools,State Of North Carolina
+2017,840332,9,39.9,North Stanly High,Stanly County Schools,State Of North Carolina
+2017,840350,6,40.7,West Stanly Middle School,Stanly County Schools,State Of North Carolina
+2017,840356,9,29.8,South Stanly High,Stanly County Schools,State Of North Carolina
+2017,840358,6,43,South Stanly Middle,Stanly County Schools,State Of North Carolina
+2017,840361,9,71.4,Stanly Early College High,Stanly County Schools,State Of North Carolina
+2017,840368,9,36.5,West Stanly High,Stanly County Schools,State Of North Carolina
+2017,840370,9,0,Stanly Academy Learning Center,Stanly County Schools,State Of North Carolina
+2017,84B000,9,74.7,Gray Stone Day,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,850304,6,46,Chestnut Grove Middle,Stokes County Schools,State Of North Carolina
+2017,850324,6,0,Meadowbrook Academy,Stokes County Schools,State Of North Carolina
+2017,850324,9,0,Meadowbrook Academy,Stokes County Schools,State Of North Carolina
+2017,850332,9,33,North Stokes High,Stokes County Schools,State Of North Carolina
+2017,850338,6,53.6,Piney Grove Middle,Stokes County Schools,State Of North Carolina
+2017,850350,6,46.2,Southeastern Middle,Stokes County Schools,State Of North Carolina
+2017,850352,9,27,South Stokes High,Stokes County Schools,State Of North Carolina
+2017,850358,9,31.3,West Stokes High,Stokes County Schools,State Of North Carolina
+2017,850360,9,69.5,Stokes Early College,Stokes County Schools,State Of North Carolina
+2017,860306,6,46.5,"Central Middle, Dobson",Surry County Schools,State Of North Carolina
+2017,860316,9,45.1,East Surry High,Surry County Schools,State Of North Carolina
+2017,860326,6,51.7,J Sam Gentry Middle,Surry County Schools,State Of North Carolina
+2017,860330,6,45.5,Meadowview Magnet Middle,Surry County Schools,State Of North Carolina
+2017,860336,9,31.5,North Surry High,Surry County Schools,State Of North Carolina
+2017,860340,6,66.9,Pilot Mountain Middle,Surry County Schools,State Of North Carolina
+2017,860352,9,42,Surry Central High,Surry County Schools,State Of North Carolina
+2017,860354,9,76.1,Surry Early College,Surry County Schools,State Of North Carolina
+2017,861304,6,57,Elkin Elementary,Elkin City Schools,State Of North Carolina
+2017,861308,9,43.6,Elkin High,Elkin City Schools,State Of North Carolina
+2017,862312,9,50.5,Mount Airy High,Mount Airy City Schools,State Of North Carolina
+2017,862316,6,57.6,Mount Airy Middle,Mount Airy City Schools,State Of North Carolina
+2017,86T000,6,60,Millennium Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,86T000,9,64.7,Millennium Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,870314,9,35.6,Swain County High School,Swain County Schools,State Of North Carolina
+2017,870318,6,43.5,Swain County Middle School,Swain County Schools,State Of North Carolina
+2017,87A000,6,73.7,Mountain Discovery,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,880308,9,51.7,Brevard High,Transylvania County Schools,State Of North Carolina
+2017,880312,6,54.7,Brevard Middle,Transylvania County Schools,State Of North Carolina
+2017,880320,9,0,Davidson River School,Transylvania County Schools,State Of North Carolina
+2017,880328,9,35.9,Rosman High,Transylvania County Schools,State Of North Carolina
+2017,880330,6,61.9,Rosman Middle,Transylvania County Schools,State Of North Carolina
+2017,88A000,6,60.7,Brevard Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,890304,9,20,Columbia High,Tyrrell County Schools,State Of North Carolina
+2017,890306,6,41.9,Columbia Middle,Tyrrell County Schools,State Of North Carolina
+2017,900308,6,39.3,East Union Middle,Union County Public Schools,State Of North Carolina
+2017,900310,6,75.4,Cuthbertson Middle,Union County Public Schools,State Of North Carolina
+2017,900311,9,78.5,Cuthbertson High,Union County Public Schools,State Of North Carolina
+2017,900314,6,28.1,Monroe Middle,Union County Public Schools,State Of North Carolina
+2017,900316,9,15.5,Forest Hills High,Union County Public Schools,State Of North Carolina
+2017,900336,9,10.4,Monroe High,Union County Public Schools,State Of North Carolina
+2017,900342,9,45.5,Porter Ridge High School,Union County Public Schools,State Of North Carolina
+2017,900343,6,70.7,Porter Ridge Middle School,Union County Public Schools,State Of North Carolina
+2017,900344,9,33,Parkwood High,Union County Public Schools,State Of North Carolina
+2017,900346,6,55.3,Parkwood Middle,Union County Public Schools,State Of North Carolina
+2017,900346,9,0,Parkwood Middle,Union County Public Schools,State Of North Carolina
+2017,900348,9,45.7,Piedmont High,Union County Public Schools,State Of North Carolina
+2017,900350,6,62.7,Piedmont Middle,Union County Public Schools,State Of North Carolina
+2017,900360,9,39.4,Sun Valley High,Union County Public Schools,State Of North Carolina
+2017,900362,6,59.5,Sun Valley Middle,Union County Public Schools,State Of North Carolina
+2017,900362,9,0,Sun Valley Middle,Union County Public Schools,State Of North Carolina
+2017,900365,6,0,South Providence,Union County Public Schools,State Of North Carolina
+2017,900365,9,0,South Providence,Union County Public Schools,State Of North Carolina
+2017,900366,9,91.2,Central Academy of Technology and Arts,Union County Public Schools,State Of North Carolina
+2017,900367,9,75.8,Union County Early College,Union County Public Schools,State Of North Carolina
+2017,900377,9,79.3,Weddington High,Union County Public Schools,State Of North Carolina
+2017,900378,6,87.4,Weddington Middle,Union County Public Schools,State Of North Carolina
+2017,900391,6,82.1,Marvin Ridge Middle,Union County Public Schools,State Of North Carolina
+2017,900392,6,0,Wolfe School,Union County Public Schools,State Of North Carolina
+2017,900392,9,0,Wolfe School,Union County Public Schools,State Of North Carolina
+2017,900393,9,81,Marvin Ridge High,Union County Public Schools,State Of North Carolina
+2017,90A000,6,71.2,"Union Academy, Monroe",Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,90A000,9,40.3,"Union Academy, Monroe",Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,90C000,6,48.8,Union Prep Academy at Indian Trail,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,910316,6,14.8,Eaton-Johnson Middle,Vance County Schools,State Of North Carolina
+2017,910320,6,19.5,Henderson Middle,Vance County Schools,State Of North Carolina
+2017,910364,9,22,Southern Vance High,Vance County Schools,State Of North Carolina
+2017,910368,9,0,Western Vance High,Vance County Schools,State Of North Carolina
+2017,910370,9,20.7,Northern Vance High,Vance County Schools,State Of North Carolina
+2017,910382,9,61.1,Vance Co Early College,Vance County Schools,State Of North Carolina
+2017,910384,6,80.9,STEM Early High,Vance County Schools,State Of North Carolina
+2017,91A000,6,61.1,Vance Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,91A000,9,40,Vance Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,91B000,6,69.2,Henderson Collegiate,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,91B000,9,78.8,Henderson Collegiate,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,920312,6,69.3,Apex Middle,Wake County Schools,State Of North Carolina
+2017,920316,9,67.6,Apex High,Wake County Schools,State Of North Carolina
+2017,920317,9,67.3,Apex Friendship High,Wake County Schools,State Of North Carolina
+2017,920318,9,42.1,Athens Drive High,Wake County Schools,State Of North Carolina
+2017,920324,6,0,Longview,Wake County Schools,State Of North Carolina
+2017,920324,9,0,Longview,Wake County Schools,State Of North Carolina
+2017,920348,9,40.5,Needham Broughton High,Wake County Schools,State Of North Carolina
+2017,920356,6,60.3,Carnage Middle,Wake County Schools,State Of North Carolina
+2017,920360,6,45.1,Carroll Middle,Wake County Schools,State Of North Carolina
+2017,920368,9,45.5,Cary High,Wake County Schools,State Of North Carolina
+2017,920370,6,40.4,Centennial Campus Middle,Wake County Schools,State Of North Carolina
+2017,920386,9,90.9,Crossroads FLEX,Wake County Schools,State Of North Carolina
+2017,920388,6,58.8,Daniels Middle,Wake County Schools,State Of North Carolina
+2017,920391,6,83.2,Davis Drive Middle,Wake County Schools,State Of North Carolina
+2017,920394,6,47,Dillard Drive Middle,Wake County Schools,State Of North Carolina
+2017,920399,6,52.3,Durant Road Middle,Wake County Schools,State Of North Carolina
+2017,920400,6,51.6,Reedy Creek Middle,Wake County Schools,State Of North Carolina
+2017,920402,6,63.1,East Cary Middle,Wake County Schools,State Of North Carolina
+2017,920404,6,36.9,East Garner Middle,Wake County Schools,State Of North Carolina
+2017,920408,6,31.1,East Millbrook Middle,Wake County Schools,State Of North Carolina
+2017,920410,6,26.4,East Wake Middle,Wake County Schools,State Of North Carolina
+2017,920411,9,22.7,East Wake High,Wake County Schools,State Of North Carolina
+2017,920412,9,53.8,Enloe High,Wake County Schools,State Of North Carolina
+2017,920424,6,49.8,Fuquay-Varina Middle,Wake County Schools,State Of North Carolina
+2017,920428,9,44,Fuquay-Varina High,Wake County Schools,State Of North Carolina
+2017,920436,9,34.5,Garner High,Wake County Schools,State Of North Carolina
+2017,920438,6,0,River Oaks Middle,Wake County Schools,State Of North Carolina
+2017,920441,9,79.1,Green Hope High,Wake County Schools,State Of North Carolina
+2017,920442,6,49.3,Hilburn Drive Academy,Wake County Schools,State Of North Carolina
+2017,920444,6,74.7,"Heritage Middle, Wake Forest",Wake County Schools,State Of North Carolina
+2017,920445,9,50.9,Heritage High,Wake County Schools,State Of North Carolina
+2017,920450,6,60.7,Holly Ridge Middle,Wake County Schools,State Of North Carolina
+2017,920455,9,51.7,Holly Springs High,Wake County Schools,State Of North Carolina
+2017,920458,6,65.2,Holly Grove Middle,Wake County Schools,State Of North Carolina
+2017,920466,9,21.5,Knightdale High,Wake County Schools,State Of North Carolina
+2017,920471,6,54.3,Leesville Road Middle,Wake County Schools,State Of North Carolina
+2017,920472,6,64.4,Ligon Middle,Wake County Schools,State Of North Carolina
+2017,920473,9,54.4,Leesville Road High,Wake County Schools,State Of North Carolina
+2017,920484,6,71.8,Lufkin Road Middle,Wake County Schools,State Of North Carolina
+2017,920492,6,64.7,Martin Middle,Wake County Schools,State Of North Carolina
+2017,920495,9,48.2,Middle Creek High,Wake County Schools,State Of North Carolina
+2017,920500,9,45.6,Millbrook High,Wake County Schools,State Of North Carolina
+2017,920502,6,83.1,Mills Park Middle,Wake County Schools,State Of North Carolina
+2017,920506,6,59.5,Moore Square Museum Magnet Middle,Wake County Schools,State Of North Carolina
+2017,920508,6,0,Mount Vernon,Wake County Schools,State Of North Carolina
+2017,920512,6,41.9,North Garner Middle,Wake County Schools,State Of North Carolina
+2017,920526,9,71.8,Panther Creek High,Wake County Schools,State Of North Carolina
+2017,920528,9,0,Phillips High,Wake County Schools,State Of North Carolina
+2017,920529,6,68.7,Pine Hollow Middle,Wake County Schools,State Of North Carolina
+2017,920545,6,46.8,Rolesville Middle,Wake County Schools,State Of North Carolina
+2017,920546,9,33.5,Rolesville High,Wake County Schools,State Of North Carolina
+2017,920551,6,68.9,Salem Middle,Wake County Schools,State Of North Carolina
+2017,920552,9,39.9,Sanderson High,Wake County Schools,State Of North Carolina
+2017,920562,9,21.5,Southeast Raleigh High,Wake County Schools,State Of North Carolina
+2017,920581,9,37.2,Vernon Malone College and Career Academy,Wake County Schools,State Of North Carolina
+2017,920582,9,91.4,Wake STEM Early College High School,Wake County Schools,State Of North Carolina
+2017,920583,9,80,Wake Early College of Health and Science,Wake County Schools,State Of North Carolina
+2017,920585,6,86.2,Wake Young Men's Leadership Academy,Wake County Schools,State Of North Carolina
+2017,920585,9,51.4,Wake Young Men's Leadership Academy,Wake County Schools,State Of North Carolina
+2017,920586,6,88.9,Wake Young Women's Leadership Academy,Wake County Schools,State Of North Carolina
+2017,920586,9,48.5,Wake Young Women's Leadership Academy,Wake County Schools,State Of North Carolina
+2017,920588,9,46.8,Wake Forest High School,Wake County Schools,State Of North Carolina
+2017,920592,6,51.8,Wake Forest Middle School,Wake County Schools,State Of North Carolina
+2017,920594,6,67.9,Wakefield Middle,Wake County Schools,State Of North Carolina
+2017,920595,9,45,Wakefield High,Wake County Schools,State Of North Carolina
+2017,920601,6,34,Wendell Middle,Wake County Schools,State Of North Carolina
+2017,920604,6,73.1,West Cary Middle,Wake County Schools,State Of North Carolina
+2017,920607,6,66.8,West Lake Middle,Wake County Schools,State Of North Carolina
+2017,920608,6,43.3,West Millbrook Middle,Wake County Schools,State Of North Carolina
+2017,920636,6,37.3,Zebulon Middle,Wake County Schools,State Of North Carolina
+2017,92B000,6,81.3,The Exploris School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92D000,6,100,Magellan Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92E000,6,82.8,Sterling Montessori Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92F000,6,63.1,Franklin Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92F000,9,67.2,Franklin Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92G000,6,49,East Wake Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92G000,9,45.3,East Wake Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92K000,9,92.5,Raleigh Charter High School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92L000,6,25,Torchlight Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92M000,6,25,PreEminent Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92N000,6,93.8,Quest Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92P000,6,55.9,Southern Wake Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92P000,9,28.1,Southern Wake Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92R000,6,66.7,Casa Esperanza Montessori Charter School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92S000,6,84.2,Endeavor Charter,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92T000,6,78.3,Triangle Math and Science Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92T000,9,68.4,Triangle Math and Science Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92U000,9,53.1,Longleaf School of the Arts,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92V000,6,59.3,Wake Forest Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92W000,6,63.3,Cardinal Charter Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,92Y000,6,54.8,Envision Science Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,930340,6,26.3,Northside K-8,Warren County Schools,State Of North Carolina
+2017,930352,9,8.7,Warren County High,Warren County Schools,State Of North Carolina
+2017,930354,6,28.2,Warren County Middle,Warren County Schools,State Of North Carolina
+2017,930360,9,26.3,Warren Early College High,Warren County Schools,State Of North Carolina
+2017,930700,9,22.9,Warren New Tech High,Warren County Schools,State Of North Carolina
+2017,93A000,6,9.1,Haliwa-Saponi Tribal School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,93A000,9,7.1,Haliwa-Saponi Tribal School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,940308,6,47.4,Creswell High,Washington County Schools,State Of North Carolina
+2017,940308,9,18.8,Creswell High,Washington County Schools,State Of North Carolina
+2017,940316,9,11.3,Plymouth High,Washington County Schools,State Of North Carolina
+2017,940328,6,22.1,Washington County Union,Washington County Schools,State Of North Carolina
+2017,94Z000,9,45.3,Northeast Regional School - Biotech/Agri,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,950308,6,37.5,"Bethel Elementary, Sugar Grove",Watauga County Schools,State Of North Carolina
+2017,950312,6,67.6,Blowing Rock Elementary,Watauga County Schools,State Of North Carolina
+2017,950316,6,57.1,Cove Creek Elementary,Watauga County Schools,State Of North Carolina
+2017,950320,6,48.9,Green Valley Elementary,Watauga County Schools,State Of North Carolina
+2017,950322,6,60.8,Hardin Park Elementary,Watauga County Schools,State Of North Carolina
+2017,950324,6,54.2,Mabel Elementary,Watauga County Schools,State Of North Carolina
+2017,950328,6,44.9,Parkway Elementary,Watauga County Schools,State Of North Carolina
+2017,950332,6,62.2,Valle Crucis Elementary,Watauga County Schools,State Of North Carolina
+2017,950336,9,55.9,Watauga High,Watauga County Schools,State Of North Carolina
+2017,950338,9,44.4,Watauga Innovation Academy,Watauga County Schools,State Of North Carolina
+2017,95A000,6,70.6,Two Rivers Community School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,960312,6,15.9,"Brogden Middle, Dudley",Wayne County Public Schools,State Of North Carolina
+2017,960324,9,43.9,Charles B Aycock High,Wayne County Public Schools,State Of North Carolina
+2017,960326,6,7.1,Dillard Middle,Wayne County Public Schools,State Of North Carolina
+2017,960330,9,28.3,Eastern Wayne High,Wayne County Public Schools,State Of North Carolina
+2017,960331,6,25.9,Eastern Wayne Middle,Wayne County Public Schools,State Of North Carolina
+2017,960332,6,60,Edgewood Cmty Developmental,Wayne County Public Schools,State Of North Carolina
+2017,960332,9,0,Edgewood Cmty Developmental,Wayne County Public Schools,State Of North Carolina
+2017,960335,9,6.7,Goldsboro High,Wayne County Public Schools,State Of North Carolina
+2017,960338,6,45,Grantham Middle,Wayne County Public Schools,State Of North Carolina
+2017,960340,6,31,Greenwood Middle,Wayne County Public Schools,State Of North Carolina
+2017,960348,6,26.5,Mount Olive Middle,Wayne County Public Schools,State Of North Carolina
+2017,960360,6,37.9,Norwayne Middle,Wayne County Public Schools,State Of North Carolina
+2017,960372,9,36.2,Rosewood High,Wayne County Public Schools,State Of North Carolina
+2017,960374,6,44.7,Rosewood Middle,Wayne County Public Schools,State Of North Carolina
+2017,960380,9,24.9,Southern Wayne High,Wayne County Public Schools,State Of North Carolina
+2017,960386,9,31.4,Spring Creek High,Wayne County Public Schools,State Of North Carolina
+2017,960387,6,40.9,Spring Creek Middle,Wayne County Public Schools,State Of North Carolina
+2017,960488,6,0,Wayne Middle / High Academy,Wayne County Public Schools,State Of North Carolina
+2017,960488,9,0,Wayne Middle / High Academy,Wayne County Public Schools,State Of North Carolina
+2017,960490,9,56.5,Wayne Early / Middle College High,Wayne County Public Schools,State Of North Carolina
+2017,960700,6,83.6,Wayne School of Engineering,Wayne County Public Schools,State Of North Carolina
+2017,960700,9,57.6,Wayne School of Engineering,Wayne County Public Schools,State Of North Carolina
+2017,96C000,6,20,Dillard Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,96F000,6,25.4,Wayne Preparatory Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,970315,6,48.5,Central Wilkes Middle,Wilkes County Schools,State Of North Carolina
+2017,970320,9,34.5,East Wilkes High,Wilkes County Schools,State Of North Carolina
+2017,970322,6,37.9,East Wilkes Middle,Wilkes County Schools,State Of North Carolina
+2017,970356,9,33.5,North Wilkes High,Wilkes County Schools,State Of North Carolina
+2017,970358,6,41,North Wilkes Middle,Wilkes County Schools,State Of North Carolina
+2017,970388,9,35.5,West Wilkes High,Wilkes County Schools,State Of North Carolina
+2017,970389,6,47.5,West Wilkes Middle,Wilkes County Schools,State Of North Carolina
+2017,970390,9,30.7,Wilkes Central High,Wilkes County Schools,State Of North Carolina
+2017,970393,9,81.3,Wilkes Early College High,Wilkes County Schools,State Of North Carolina
+2017,97D000,6,46.2,Bridges Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,980306,6,0,Milton M Daniels Learning Cntr,Wilson County Schools,State Of North Carolina
+2017,980306,9,0,Milton M Daniels Learning Cntr,Wilson County Schools,State Of North Carolina
+2017,980317,6,19.8,Charles H Darden Middle,Wilson County Schools,State Of North Carolina
+2017,980318,9,11.2,Beddingfield High,Wilson County Schools,State Of North Carolina
+2017,980324,6,42.2,Elm City Middle,Wilson County Schools,State Of North Carolina
+2017,980336,9,29.6,Fike High,Wilson County Schools,State Of North Carolina
+2017,980338,6,20.3,Forest Hills Middle,Wilson County Schools,State Of North Carolina
+2017,980342,9,20.5,James Hunt High,Wilson County Schools,State Of North Carolina
+2017,980380,6,38.9,Speight Middle,Wilson County Schools,State Of North Carolina
+2017,980384,6,55.3,Springfield Middle,Wilson County Schools,State Of North Carolina
+2017,980390,6,30,Toisnot Middle,Wilson County Schools,State Of North Carolina
+2017,980397,9,23.6,Wilson Academy of Applied Technology,Wilson County Schools,State Of North Carolina
+2017,980398,9,56.3,Wilson Early College Academy,Wilson County Schools,State Of North Carolina
+2017,98A000,6,42.5,Sallie B Howard School,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,98B000,6,58.7,Wilson Preparatory Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,98B000,9,34.3,Wilson Preparatory Academy,Charter and Non-District Affiliated Schools,State Of North Carolina
+2017,990304,6,43.1,Boonville Elementary,Yadkin County Schools,State Of North Carolina
+2017,990308,6,58.1,Courtney Elementary,Yadkin County Schools,State Of North Carolina
+2017,990312,6,48.4,East Bend Elementary,Yadkin County Schools,State Of North Carolina
+2017,990316,6,54.5,Fall Creek Elementary,Yadkin County Schools,State Of North Carolina
+2017,990320,6,73.2,Forbush Elementary,Yadkin County Schools,State Of North Carolina
+2017,990322,9,40.5,Forbush High,Yadkin County Schools,State Of North Carolina
+2017,990324,6,49,Jonesville Elementary,Yadkin County Schools,State Of North Carolina
+2017,990325,6,0,Starmount Middle,Yadkin County Schools,State Of North Carolina
+2017,990325,9,0,Starmount Middle,Yadkin County Schools,State Of North Carolina
+2017,990326,9,36.6,Starmount High,Yadkin County Schools,State Of North Carolina
+2017,990328,6,33.3,West Yadkin Elementary,Yadkin County Schools,State Of North Carolina
+2017,990332,9,75.6,Yadkin Early College,Yadkin County Schools,State Of North Carolina
+2017,990336,6,36.5,Yadkinville Elementary,Yadkin County Schools,State Of North Carolina
+2017,990340,6,0,Yadkin Success Academy,Yadkin County Schools,State Of North Carolina
+2017,990340,9,0,Yadkin Success Academy,Yadkin County Schools,State Of North Carolina
+2017,995316,6,58.7,Cane River Middle,Yancey County Schools,State Of North Carolina
+2017,995324,6,53.1,East Yancey Middle,Yancey County Schools,State Of North Carolina
+2017,995330,9,47.8,Mountain Heritage High,Yancey County Schools,State Of North Carolina
+2017,NC-SEA,6,46.8,,,State Of North Carolina
+2017,NC-SEA,9,38.6,,,State Of North Carolina
