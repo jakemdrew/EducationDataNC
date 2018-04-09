@@ -19,4 +19,4 @@ This repository maintains educational attainment data specific to North Carolina
 # Acknowledgements
 ![John M Belk Endowment](http://jmbendowment.org/wp-content/uploads/2015/03/BelkEndowment_-logo-2015.png)
 
-http://jmbendowment.org/
+This research is made possbiloe by: http://jmbendowment.org/
