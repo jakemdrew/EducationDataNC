@@ -1,5 +1,5 @@
-# Raw Datasets - http://ncpublicschools.org
-There were a total of 20 data sources used to create the consolidated school datasets for 2017.  
+# Raw Datasets
+There were a total of 16 data sources used to create the consolidated school datasets for 2014.  
 
 The link below will display source code, outputs, and reports for each of the raw datasets in any web browser.  You may also download the source code files and modify / run them using Python, Pandas, Numpy, Scikit Learn, and iPython Notebook.  Each file link contains additional documentation on the code and transformations used to create a particular machine learning dataset.     
 
@@ -7,7 +7,7 @@ The link below will display source code, outputs, and reports for each of the ra
 
 * [**PublicSchools2014_ML.ipynb**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2014/Raw%20Datasets/Source%20Code/RawDataFiles2014.ipynb) - Python code to create each of the raw dataset files. 
 
-## Data Sources 
+## Data Sources - http://ncpublicschools.org 
 * **Profile 2006-2017** http://www.ncpublicschools.org/docs/src/researchers/profile.xlsx
 * **Profile Metric 2006-2017** - http://www.ncpublicschools.org/docs/src/researchers/profile-metrics.xlsx
 * **Funding 2002-2017** - http://www.ncpublicschools.org/docs/src/researchers/funding.xlsx
