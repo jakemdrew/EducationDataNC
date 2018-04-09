@@ -32,7 +32,7 @@ Drew J., The Belk Endowment Educational Attainment Data Repository for North Car
   year = {2018},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}},
+  howpublished = {\url{https://github.com/jakemdrew/EducationDataNC}}
 }
 
 # Acknowledgements
