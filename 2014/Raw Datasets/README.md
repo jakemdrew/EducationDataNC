@@ -33,7 +33,9 @@ The link below will display source code, outputs, and reports for each of the ra
 * **Economically Disadvantaged 2017** - http://www.ncpublicschools.org/docs/src/researchers/acc-ed-rates.xlsx'
 * **CTE Concentrations 2017** - http://www.ncpublicschools.org/docs/src/researchers/cte-concentrations.xlsx'
 * **CTE Credentials 2017** - http://www.ncpublicschools.org/docs/src/researchers/cte-credentials.xlsx'
+* **IRS Income Tax Data** - https://www.irs.gov/pub/irs-soi/13zp34nc.xls
 
 **See the following links for the most current data:**
 * http://www.ncpublicschools.org/accountability/reporting/
 * http://www.ncpublicschools.org/src/researchers/
+* https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-zip-code-data-soi
