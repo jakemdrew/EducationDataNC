@@ -13,7 +13,7 @@ This repository maintains educational attainment data specific to North Carolina
 
 # Data Documentation 
 **The following resources and reports are currently available to assist in understanding table, field, and code definitions for public school data:**
-* [**data-dictionary.pdf**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/data-dictionary.pdf) - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
+* [**data-dictionary.pdf**](https://github.com/jakemdrew/EducationDataNC/blob/master/Data%20Documentation/data-dictionary.pdf) - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
 
 # Reports 
 **This folder includes links to research and reports produced using this repository.** 
