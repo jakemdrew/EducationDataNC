@@ -16,10 +16,15 @@ This repository maintains educational attainment data specific to North Carolina
 * [**data-dictionary.pdf**](https://github.com/jakemdrew/EducationDataNC/blob/master/Data%20Documentation/data-dictionary.pdf) - Metadata file containing field definitions by table for most fields in the NC Report Card database and All_Data_By_School_Final.xlsx
 
 # Reports 
-**This folder includes links to research and reports produced using this repository.** 
+**This folder includes links to research and reports produced using data in this repository.** 
 * Brown et. al., [**Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Postsecondary%20Attainment.pdf), SMU Data Science Review, 04/2019.
+* Brown et. al., [**Presentation Slides - Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/NBrown_JHeinen_MRega_LSterling_Symposium_Presentation.pdf), SMU Data Science Review, 04/2019.
+* Brown et. al., [**Presentation Video - Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://www.youtube.com/watch?v=TvW91hBuzxY&t=1s), SMU Data Science Immersion, 04/2019.
 * Drew et. al., [**Reverse Engineering Segregation in North Carolina Public Schools**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Reverse_Engineering_Segregation_in_North_Carolina_Public_Schools%2010_2018.pdf), 10/2018.
 * Leeson et. al., [**Identifying Areas for Change: A Case Study on North Carolina State Public School Performance**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Identifying%20Areas%20for%20Change_%20NC%20Public%20School%20Performance.pdf), SMU Data Science Review, 08/2018.
+* Leeson et. al., [**Presentation Slides - Identifying Areas for Change: A Case Study on North Carolina State Public School Performance**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/KBean_OLeeson_SymposiumLighteningTalk.pdf), SMU Data Science Immersion, 08/2018.
+* Leeson et. al., [**Presentation Video - Identifying Areas for Change: A Case Study on North Carolina State Public School Performance**]( https://www.youtube.com/watch?v=07wpQZ7dCuU), SMU Data Science Immersion, 08/2018.
+* Leeson et. al., [**Poster - Identifying Areas for Change: A Case Study on North Carolina State Public School Performance**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/KBean_OLeeson_SymposiumPosterPresentation.pdf), SMU Data Science Immersion, 08/2018.
 * Drew, Jake, [**2016-2017 North Carolina Public Schools Educational Attainment Data Overview**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/NC%20Report%202016%20Data%20Overview%20-%20MSDS%207331.pdf), 01/2018. 
 
 # Citations
