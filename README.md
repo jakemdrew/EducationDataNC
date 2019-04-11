@@ -17,9 +17,9 @@ This repository maintains educational attainment data specific to North Carolina
 
 # Reports 
 **This folder includes links to research and reports produced using this repository.** 
-* Brown et. al.,[**Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Postsecondary%20Attainment.pdf), SMU Data Science Review, 04/2019.
-* Drew et. al.,[**Reverse Engineering Segregation in North Carolina Public Schools**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Reverse_Engineering_Segregation_in_North_Carolina_Public_Schools%2010_2018.pdf), 10/2018.
-* Leeson et. al.,[**Identifying Areas for Change: A Case Study on North Carolina State Public School Performance**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Identifying%20Areas%20for%20Change_%20NC%20Public%20School%20Performance.pdf), SMU Data Science Review, 08/2018.
+* Brown et. al., [**Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Postsecondary%20Attainment.pdf), SMU Data Science Review, 04/2019.
+* Drew et. al., [**Reverse Engineering Segregation in North Carolina Public Schools**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Reverse_Engineering_Segregation_in_North_Carolina_Public_Schools%2010_2018.pdf), 10/2018.
+* Leeson et. al., [**Identifying Areas for Change: A Case Study on North Carolina State Public School Performance**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Identifying%20Areas%20for%20Change_%20NC%20Public%20School%20Performance.pdf), SMU Data Science Review, 08/2018.
 * Drew, Jake, [**2016-2017 North Carolina Public Schools Educational Attainment Data Overview**](http://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/Reports/NC%20Report%202016%20Data%20Overview%20-%20MSDS%207331.pdf), 01/2018. 
 
 # Citations
