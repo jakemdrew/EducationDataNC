@@ -1,5 +1,5 @@
-# Reports and Presentations 
-## The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools 
+# The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools 
+## Reports and Presentations 
 **This folder includes links to research and reports produced using data in this repository.** 
 * Brown et. al., [**Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Postsecondary%20Attainment.pdf), SMU Data Science Review, 04/2019.
 * Brown et. al., [**Presentation Slides - Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/NBrown_JHeinen_MRega_LSterling_Symposium_Presentation.pdf), SMU Data Science Review, 04/2019.
