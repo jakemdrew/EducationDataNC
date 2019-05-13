@@ -1,10 +1,10 @@
 # Raw Datasets - http://ncpublicschools.org
 There were a total of 55 data sources used to create the consolidated school datasets for 2018.  
 
-* \\Flattened Datasets - SRC datasets filtered to contain the most recent school year data and reshaped to contain only one record per agency_code / public school campus.
-* \\SRC Datasets - The original decompressed datasets from src-datasets.zip.
-* \\Source Code - A jupyter notebook containing the source code used to create all files. 
-* src-datasets.zip - The original zip repository published by NCDPI (see link below).
+* **\\Flattened Datasets** - SRC datasets filtered to contain the most recent school year data and reshaped to contain only one record per agency_code / public school campus.
+* **\\SRC Datasets** - The original decompressed datasets from src-datasets.zip.
+* **\\Source Code** - A jupyter notebook containing the source code used to create all files. 
+* **src-datasets.zip** - The original zip repository published by NCDPI (see link below).
 
 The link below will display source code, outputs, and reports for each of the raw datasets in any web browser.  You may also download the source code files and modify / run them using Python, Pandas, Numpy, Scikit Learn, and iPython Notebook.  Each file link contains additional documentation on the code and transformations used to create a particular machine learning dataset.     
 
