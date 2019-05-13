@@ -1,0 +1,157 @@
+code_set,code,description
+category_code,E,Elementary
+category_code,M,Middle School
+category_code,H,High School
+category_code,A,"Elementary, Middle, High School"
+category_code,T,"Middle, High School"
+category_code,I,"Elementary, Middle School"
+acc_pc_standard,CCR,College and Career Ready
+acc_pc_standard,GLP,Grade Level Proficiency
+acc_subject,RD,Reading
+acc_subject,MA,Math
+acc_subject,SC,Science
+acc_subject,M1,NC Math I
+acc_subject,E2,English II
+acc_subject,BI,Biology
+acc_subject,EOC,All 9-12 Tests
+acc_subject,EOG,All 3-8 Tests
+acc_subject,ALL,All Tests
+acc_subject,ACRD,ACT Reading Subtest
+acc_subject,ACMA,ACT Math Subtest
+acc_subject,ACSC,ACT Science Subtest
+acc_subject,ACEN,ACT English Subtest
+acc_subject,ACWR,ACT Writing Subtest
+acc_subject,ACALL,ACT All Subtest Composite
+acc_subject,ACCO,ACT Met UNC Minimum 17 Composite
+acc_pc_grade,03,Grade 3
+acc_pc_grade,04,Grade 4
+acc_pc_grade,05,Grade 5
+acc_pc_grade,06,Grade 6
+acc_pc_grade,07,Grade 7
+acc_pc_grade,08,Grade 8
+acc_pc_grade,GS,Grades 3-8
+acc_pc_grade,HS,High School
+acc_pc_grade,ALL,All Grades
+acc_pc_grade,EOC,All Grades of students taking EOC Tests
+subgroup,EDS,Economically Disadvantaged
+subgroup,NOT_EDS,Not Economically Disadvantaged
+subgroup,ELS,English Learners
+subgroup,SWD,Students w/ Disabilities
+subgroup,WH7,White
+subgroup,BL7,Black
+subgroup,HI7,Hispanic
+subgroup,AM7,American Indian
+subgroup,AS7,Asian
+subgroup,MU7,Two or More Races
+subgroup,MALE,Male
+subgroup,FEM,Female
+subgroup,ALL,All Students
+subgroup,AIG,Academically/Intellectually Gifted
+subgroup,PI7,Pacific Islander
+subgroup,HMS,Homeless
+subgroup,FCS,Foster Care
+subgroup,MIL,Military Connected
+subgroup,NA,Not Applicable
+masking,0,None
+masking,1,>95%
+masking,2,<5%
+masking,3,<10
+masking,4,Insufficient Data
+growth_status,Met,Meets Expected Growth
+growth_status,NotMet,Does Not Meet Expected Growth
+growth_status,Exceeded,Exceeds Expected Growth
+designation_type,C,Charter School
+designation_type,F,Federal School
+designation_type,L,Laboratory School
+designation_type,P,Public School
+designation_type,R,Regional School
+designation_type,O,Other
+lea_code,CH,Charter and Non-District Affiliated Schools
+subgroup,AIAN,American Indian / Alaskan Native
+subgroup,ASPI,Pacific Islander / Asian
+agency_level,SCH,School
+agency_level,LEA,Local Education Agency
+agency_level,SEA,State
+agency_level,NAT,National
+naep_subject,M,Math
+naep_subject,RD,Reading
+rta_metrics,passed_eog,Passed EOG or BOG
+rta_metrics,passed_rta,Passed RTA Assessment
+rta_metrics,passed_laa,Passed Local Alternative Assessment
+rta_metrics,gce_els,Good Cause Exemption - Limited English Proficiency
+rta_metrics,gce_swd,Good Cause Exemption - Students with Disabilities
+rta_metrics,gce_rpf,Good Cause Exemption -Proficient through a Reading Portfolio
+rta_metrics,gce_prm,Good Cause Exemption - Previously Retained
+rta_metrics,gce_all,Good Cause Exemption
+rta_metrics,promoted,Promoted
+rta_metrics,retained,Retained
+grade,PK,Pre-kindergarten
+grade,KG,Kindergarten
+grade,01,Grade 01
+grade,02,Grade 02
+grade,03,Grade 03
+grade,04,Grade 04
+grade,05,Grade 05
+grade,06,Grade 06
+grade,07,Grade 07
+grade,08,Grade 08
+grade,09,Grade 09
+grade,10,Grade 10
+grade,11,Grade 11
+grade,12,Grade 12
+grade,13,Grade 13
+subgroup,MIG,Migrant
+acc_pc_standard,L1,Level 1
+acc_pc_standard,L2,Level 2
+acc_pc_standard,L3,Level 3
+acc_pc_standard,L4,Level 4
+acc_pc_standard,L5,Level 5
+grade_eoc,0,Kindergarten
+grade_eoc,1,Grade 01
+grade_eoc,2,Grade 02
+grade_eoc,3,Grade 03
+grade_eoc,4,Grade 04
+grade_eoc,5,Grade 05
+grade_eoc,6,Grade 06
+grade_eoc,7,Grade 07
+grade_eoc,8,Grade 08
+grade_eoc,9,Grade 09
+grade_eoc,10,Grade 10
+grade_eoc,11,Grade 11
+grade_eoc,12,Grade 12
+grade_eoc,13,Grade 13
+grade_eoc,Biology,Biology
+grade_eoc,Math I,Math I
+grade_eoc,English II,English II
+ee_standard,T1,Standard 1:  Leadership (Teacher)
+ee_standard,T2,Standard 2:  Environment (Teacher)
+ee_standard,T3,Standard 3:  Content Knowledge (Teacher)
+ee_standard,T4,Standard 4:  Facilitate Learning (Teacher)
+ee_standard,T5,Standard 5:  Reflection (Teacher)
+ee_standard,T6,Standard 6:  Academic Success (Teacher)
+ee_standard,P1,Standard 1:  Strategic Leadership (Principal)
+ee_standard,P2,Standard 2:  Instructional Leadership (Principal)
+ee_standard,P3,Standard 3:  Cultural Leadership (Principal)
+ee_standard,P4,Standard 4:  Human Resource Leadership (Principal)
+ee_standard,P5,Standard 5:  Managerial Leadership (Principal)
+ee_standard,P6,Standard 6: External Development Leadership (Principal)
+ee_standard,P7,Standard 7: Micropolitical Leadership (Principal)
+ee_standard,TS,Student Growth
+ee_standard,PS,School Growth
+ee_standard,P8,Standard 8:  Academic Achievement Leadership (Principal)
+subgroup,Other,Other
+career_cluster,AGNR,Agricultural & Natural Resources Tech
+career_cluster,ARCH,Architecture and Construction
+career_cluster,AAVC,"Arts, Audio/Video Techn and Comm"
+career_cluster,BMA,Business Management and Administration
+career_cluster,EDUC,Education and Training
+career_cluster,FINA,Finance
+career_cluster,HLTH,Health Science
+career_cluster,HOSP,Hospitality and Tourism
+career_cluster,HUMA,Human Services
+career_cluster,INFO,Information Technology
+career_cluster,LAW,"Law, Public Safety, Corrections and Security"
+career_cluster,MANU,Manufacturing
+career_cluster,MRKT,Marketing Sales & Services
+career_cluster,STEM,"Science, Tech, Engineering and Math"
+career_cluster,TRAN,"Transportation, Distribution & Logistics"
