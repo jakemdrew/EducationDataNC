@@ -11,7 +11,7 @@ The link below will display source code, outputs, and reports for each of the ra
 **The following zip repository contains all files used to create the 2017-2018 School Datasets:**
 * **SRC Datasets 2018** - http://www.ncpublicschools.org/docs/src/researchers/src-datasets.zip
 
-**There were a total of 55 files released for the 2017-2018 school year:** 
+**There were a total of 55 files released for the 2017-2018 school year.  However, not all datasets contain data for 2017-2018:** 
 * rcd_161.csv, Max Year: 2012
 * rcd_acc_aapart.csv, Max Year: 2018
 * rcd_acc_act.csv, Max Year: 2018
