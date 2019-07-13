@@ -1,6 +1,9 @@
 # The Belk Endowment Educational Attainment Data Repository for North Carolina Public Schools 
 ## Reports and Presentations 
 **This folder includes links to research and reports produced using data in this repository.** 
+* Yu et. al., [**Presentation Slides - Teacher Retention: Identifying Areas to Improve Teacher Retention in North Carolina Public Schools**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/YU_Rezsonya_Capstone_Presentation.html), SMU Data Science Immersion, 04/2019.
+* Yu et. al., [**Poster - Teacher Retention: Identifying Areas to Improve Teacher Retention in North Carolina Public Schools**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/YU_Rezsonya_Capstone_Poster.ppt), SMU Data Science Immersion, 04/2019.
+* Yu et. al., [**iPython Notebook - Teacher Retention: Identifying Areas to Improve Teacher Retention in North Carolina Public Schools**]( https://nbviewer.jupyter.org/github/wtubin/TeacherRetentionofNC/blob/master/2017/Models/NCTeacherAttritionRatePredict_2017.ipynb), SMU Data Science Immersion, 04/2019.
 * Brown et. al., [**Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/Postsecondary%20Attainment.pdf), SMU Data Science Review, 04/2019.
 * Brown et. al., [**Presentation Slides - Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://github.com/jakemdrew/EducationDataNC/blob/master/Reports/NBrown_JHeinen_MRega_LSterling_Symposium_Presentation.pdf), SMU Data Science Immersion, 04/2019.
 * Brown et. al., [**Presentation Video - Postsecondary Attainment: Identifying Areas to Improve Retention for North Carolina Community Colleges**]( https://www.youtube.com/watch?v=TvW91hBuzxY&t=1s), SMU Data Science Immersion, 04/2019.
