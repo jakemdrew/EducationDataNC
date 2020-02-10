@@ -14,7 +14,7 @@ The links below will display source code, outputs, and reports for each of the r
 * [**RawDataFiles2019.ipynb**](https://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2019/Raw%20Datasets/Source%20Code/RawDataFiles2019.ipynb) - Python code to create each of the raw dataset files. 
 
 ## Data Sources 
-**The following zip repository contains all files used to create the 2017-2018 School Datasets:**
+**The following zip repository contains all files used to create the 2018-2019 School Datasets:**
 * **SRC Datasets 2019** - https://files.nc.gov/dpi/src_datasets.zip
 
 **There were a total of 37 files released for the 2018-2019 school year.  However, not all datasets contain data for 2018-2019:** 

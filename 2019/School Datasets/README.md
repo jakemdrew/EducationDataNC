@@ -1,5 +1,5 @@
 # Public School Datasets
-Public school datasets are flattened to contain one row per agency_code or public school campus.  They merge data from all of the 55 files contained in the src-datasets.zip repository published by NCDPI.  We use the rcd_location file as the starting point for all file merges.
+Public school datasets are flattened to contain one row per agency_code or public school campus.  They merge data from the files contained in the src-datasets.zip repository published by NCDPI.  We use the rcd_location file as the starting point for all file merges.
 
 * **PublicSchools2019.csv** - 2708 Records, 1485 Columns
 * **PublicElementarySchools2019.csv** - 1636 Records, 1485 Columns
@@ -11,5 +11,5 @@ The file links below will display source code, outputs, and reports for each of 
 
 **Click on each of the notebook names below to preview the code using the [Nbviewer](nbviewer.jupyter.org).**
 
-* [**SchoolDataFiles2018.ipynb**](https://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2019/School%20Datasets/Source%20Code/SchoolDataFiles2019.ipynb) - Python code to create the Public School datasets. 
+* [**SchoolDataFiles2019.ipynb**](https://nbviewer.jupyter.org/github/jakemdrew/EducationDataNC/blob/master/2019/School%20Datasets/Source%20Code/SchoolDataFiles2019.ipynb) - Python code to create the Public School datasets. 
 * **IRS_ZipCodeSIO_SchoolData2018.ipynb** - This data will be added when released by the IRS. 
