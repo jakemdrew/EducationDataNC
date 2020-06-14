@@ -1,20 +1,20 @@
 strategy,amount,agency_code,year,category_code
- Transformation,"250,835.00",980357,2018,E
- Transformation,"278,707.00",340308,2018,E
- Transformation,"318,970.00",960316,2018,E
- Transformation,"319,471.00",960312,2018,M
- Transformation,"322,015.00",980317,2018,M
- Transformation,"323,754.00",980308,2018,E
- Transformation,"494,477.00",080312,2018,H
- Transformation,"504,690.00",600489,2018,I
- Transformation,"618,615.00",320374,2018,E
- Transformation,"653,207.00",640334,2018,M
- Transformation,"794,432.00",320310,2018,E
- Transformation,"813,479.00",320355,2018,M
- Transformation,"847,480.00",320388,2018,E
- Transformation,"897,344.00",320352,2018,E
- Turnaround,"463,504.00",360526,2018,M
- Whole School Reform,"166,259.00",340424,2018,E
- Whole School Reform,"484,556.00",600461,2018,A
- Whole School Reform,"489,663.00",600439,2018,T
- Whole School Reform,"492,811.00",340330,2018,H
+ Transformation,250835.0,980357,2018,E
+ Transformation,278707.0,340308,2018,E
+ Transformation,318970.0,960316,2018,E
+ Transformation,319471.0,960312,2018,M
+ Transformation,322015.0,980317,2018,M
+ Transformation,323754.0,980308,2018,E
+ Transformation,494477.0,080312,2018,H
+ Transformation,504690.0,600489,2018,I
+ Transformation,618615.0,320374,2018,E
+ Transformation,653207.0,640334,2018,M
+ Transformation,794432.0,320310,2018,E
+ Transformation,813479.0,320355,2018,M
+ Transformation,847480.0,320388,2018,E
+ Transformation,897344.0,320352,2018,E
+ Turnaround,463504.0,360526,2018,M
+ Whole School Reform,166259.0,340424,2018,E
+ Whole School Reform,484556.0,600461,2018,A
+ Whole School Reform,489663.0,600439,2018,T
+ Whole School Reform,492811.0,340330,2018,H
